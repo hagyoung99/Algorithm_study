@@ -1,0 +1,31 @@
+package study;
+
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Scanner;
+
+public class q25305 {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		int a = sc.nextInt();
+		int k = sc.nextInt();
+		int score[] = new int[a];
+		for (int i = 0; i < a; i++)
+			score[i] = sc.nextInt();
+
+		for (int i = 0; i < a - 1; i++) {
+			for (int j = i + 1; j < a; j++) {
+				if (score[i] < score[j]) {
+					int tmp = score[i];
+					score[i] = score[j];
+					score[j] = tmp;
+				}
+			}
+		}
+		System.out.println("커트라인: " + score[k - 1]);
+
+	}
+
+}
