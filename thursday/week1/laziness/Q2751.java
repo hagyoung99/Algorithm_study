@@ -12,8 +12,7 @@ public class Main {
         
 		int n = Integer.parseInt(br.readLine());
         
-		for(int i = 0 ; i < n ; i++)
-			arr[Integer.parseInt(br.readLine()) + 1000000] = true;
+		for(int i = 0 ; i < n ; i++) arr[Integer.parseInt(br.readLine()) + 1000000] = true;
  
 		for(int i = 0; i < arr.length; i++) {
 			if(arr[i]) sb.append((i - 1000000)).append('\n');
