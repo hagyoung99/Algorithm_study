@@ -46,7 +46,7 @@ public class Main {
         }
         System.out.println(mode);
         
-        // 너무 쉬운 
+        // 너무 쉬운 범위
         System.out.println(arr[arr.length - 1] - arr[0]);
     }
 }
