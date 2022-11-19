@@ -7,6 +7,11 @@ public class Q10989 {
 
 		int N = Integer.parseInt(br.readLine());
 
+		/*
+		10 
+		5 2 3 1 4 2 3 5 1 7
+		*/
+
 		int count[] = new int[10001];
 		for(int i=0; i<N; i++) {
 			count[Integer.parseInt(br.readLine())]++;
