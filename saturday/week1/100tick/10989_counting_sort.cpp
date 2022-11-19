@@ -45,6 +45,13 @@ int main()
 		{
 			// n이 1 이상인 경우 해당 수 출력,
 			// 그리고 값을 하나 줄여줌
+			
+			// n은 조회 중인 counting sort의 index,
+			// index가 1인 경우 숫자 1을 의미하며
+			// nums[1]은 숫자 1의 갯수를 의미
+
+			// nums[1]이 7인 경우, nums[1]--;가 7회 실행되며 num[1]이 0까지 감소
+			// 그 후 nums[1] = 0이 되며 index = 2로 넘어감
 			printf("%d\n", n);
 			nums[n]--;
 		}
