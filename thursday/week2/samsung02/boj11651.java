@@ -25,3 +25,40 @@ public class boj11651{
         }
     }
 }
+
+/*
+다른 풀이
+*/
+package samsung02;
+import java.util.*;
+class N{
+	int x;
+	int y;
+	N(int x, int y){
+		this.x = x;
+		this.y = y;
+	}
+}
+public class boj11651{
+    public static void main(String[] args){
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        ArrayList<N> list = new ArrayList<>();
+        for(int i = 0; i < n; i++) {
+        	int a = scan.nextInt();
+        	int b = scan.nextInt();
+        	list.add(new N(a, b));
+        }
+        Collections.sort(list, new Comparator<N>() {
+			@Override
+			public int compare(N o1, N o2) {
+				if(o1.y == o2.y)
+					return o1.x - o2.x;
+				return o1.y - o2.y;
+			}
+		});
+        for(int i = 0; i < n; i++) {
+        	System.out.println(list.get(i).x + " " + list.get(i).y);
+        }
+    }
+}
