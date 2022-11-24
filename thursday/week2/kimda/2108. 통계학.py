@@ -14,9 +14,10 @@ avg = round(sum_ /n)
 # 중앙값
 mid = round(nums[n//2])
 
-# 최빈값
+# 최빈값: n개의 수들 중 가장 많이 나타나는 값
 cnt = Counter(nums).most_common()
 # cnt = [(-2, 1), (1, 1), (2, 1), (3, 1), (8, 1)]
+# 가장 많이 나타나는 순서, 동일한 빈도수면 크기(오름차순) 순으로 정렬
 # 최빈값이 여러개 있을 때는 두번째로 작은 값 출력
 if len(cnt) > 1 and cnt[0][1] == cnt[1][1]:
     max_cnt = cnt[1][0]
