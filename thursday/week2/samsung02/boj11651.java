@@ -28,7 +28,7 @@ public class boj11651{
 
 /*
 다른 풀이
-
+(부모님 배달 음식 전해드려야해서 시간안에 못맞출거같습니다 죄송합니다)
 */
 package samsung02;
 import java.util.*;
