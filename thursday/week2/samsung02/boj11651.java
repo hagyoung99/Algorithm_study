@@ -28,6 +28,7 @@ public class boj11651{
 
 /*
 다른 풀이
+
 */
 package samsung02;
 import java.util.*;
