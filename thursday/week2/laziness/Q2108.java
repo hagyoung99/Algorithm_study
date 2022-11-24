@@ -24,28 +24,29 @@ public class Main {
         int mode = 10000;
 
         for(int i = 0; i < len ; i++) {
-            int jump = 0;	 
-            int count = 1;
-            int i_value = arr[i];
+          int jump = 0;	 
+          int count = 1;
+          int i_value = arr[i];
 
-            for(int j = i + 1; j < len ; j++){
-                if(i_value != arr[j]) break;
-                count++;
-                jump++;
-            }
+          for(int j = i + 1; j < len ; j++){
+            if(i_value != arr[j]) break;
+            count++;
+            jump++;
+          }
 
-            if(count > mode_max) {
-                mode_max = count;
-                mode = i_value;
-                flag = true;
-            } else if(count == mode_max && flag) {
-                mode = i_value;
-                flag = false;
-            }
-            i += jump;
+          if(count > mode_max) {
+            mode_max = count;
+            mode = i_value;
+            flag = true;
+          } else if(count == mode_max && flag) {
+            mode = i_value;
+            flag = false;
+          }
+          i += jump;
         }
         System.out.println(mode);
         
         // 너무 쉬운 범위
         System.out.println(arr[arr.length - 1] - arr[0]);
     }
+}

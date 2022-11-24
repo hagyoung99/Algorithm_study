@@ -1,0 +1,37 @@
+package study.week2;
+
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.Scanner;
+
+public class q11650 {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int count=sc.nextInt();
+		int [][]arr=new int[count][2];
+		
+		for (int i = 0; i < arr.length; i++) {
+			for (int j = 0; j < arr[i].length; j++) {
+				arr[i][j]=sc.nextInt();			
+			}
+		}
+		Arrays.sort(arr, new Comparator<int[]>() {
+			
+			public int compare(int[] a, int[] b) {
+				if(a[0]==b[0]) {
+					return a[1]-b[1];
+				}else {
+					return a[0]-b[0];
+	
+				}	
+			}
+		});
+		System.out.println(Arrays.deepToString(arr));
+		
+		
+		
+		
+		
+	}
+}
