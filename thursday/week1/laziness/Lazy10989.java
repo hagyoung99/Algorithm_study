@@ -2,21 +2,18 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
  
-public class Main {
+public class Lazy10989 {
 	public static void main(String[] args) throws IOException {
-    
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
-        
-		boolean[] arr = new boolean[2_000_001];	
-        
 		int n = Integer.parseInt(br.readLine());
-        
-		for(int i = 0 ; i < n ; i++) arr[Integer.parseInt(br.readLine()) + 1_000_000] = true;
- 
-		for(int i = 0; i < arr.length; i++) {
-			if(arr[i]) sb.append((i - 1_000_000)).append('\n');
+		int[] arr = new int[10001];
+
+		for(int i = 0 ; i < n ; i += 1) arr[Integer.parseInt(br.readLine())] += 1;
+
+		for(int i = 0 ; i < 10001 ; i += 1) {
+			for(int j = 0 ; j < arr[i] ; j += 1) sb.append(i).append("\n");
 		}
-		System.out.print(sb);
+		System.out.println(sb);
 	}
 }

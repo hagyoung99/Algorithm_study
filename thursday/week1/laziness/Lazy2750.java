@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class SortNumbers {
+public class Lazy2750 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int len = Integer.parseInt(br.readLine());

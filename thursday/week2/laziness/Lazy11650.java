@@ -4,7 +4,7 @@ import java.util.*;
 /*
 Integer[][]로 하면 통과과 안되던 것이 int[][]로 변환하니 통과가 되는건 왜그런거죠??
 **/
-public class Main {
+public class Lazy11650 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
