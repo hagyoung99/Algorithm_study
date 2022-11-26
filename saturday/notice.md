@@ -6,15 +6,15 @@
 <br>
 
 ## 3주차 문제 링크 (22.11.27~22.12.3)
-1. [나이순 정렬](https://www.acmicpc.net/problem/10814) - 졸림
+[나이순 정렬](https://www.acmicpc.net/problem/10814) - 졸림
 
-2. [좌표 압축](https://www.acmicpc.net/problem/18870) - 야마
+[좌표 압축](https://www.acmicpc.net/problem/18870) - 야마
 
-3. [팩토리얼](https://www.acmicpc.net/problem/10872) - 프런트
+[팩토리얼](https://www.acmicpc.net/problem/10872) - 프런트
 
-4. [피보나치 수5](https://www.acmicpc.net/problem/10870) - 고구마
+[피보나치 수5](https://www.acmicpc.net/problem/10870) - 고구마
 
-5. [재귀의 귀재](https://www.acmicpc.net/problem/25501) - 빽
+[재귀의 귀재](https://www.acmicpc.net/problem/25501) - 빽
 
 ## 2주차 문제 링크 (22.11.20~22.11.26)
 [통계학](https://www.acmicpc.net/problem/2108) - 야마
