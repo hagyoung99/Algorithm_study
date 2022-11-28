@@ -1,3 +1,5 @@
+package laziness;
+
 import java.io.*;
 import java.util.*;
 
