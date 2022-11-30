@@ -1,0 +1,27 @@
+package study.week3;
+
+import java.util.Scanner;
+
+public class q10872 {
+
+	private static int result=1;
+	private static void factorial(int n) 
+	{
+		if(n==0) return;
+
+		result*=n;
+		factorial(n-1);	
+		
+	}
+	public static void main(String[] args) {
+
+		Scanner sc=new Scanner(System.in);
+		int n=sc.nextInt();
+		if(n>12)return;
+		factorial(n);
+		System.out.println(result);
+		
+	}
+
+
+}
