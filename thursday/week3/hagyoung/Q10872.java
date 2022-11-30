@@ -9,7 +9,6 @@ package thursday.week3.hagyoung;
     첫째 줄에 N!을 출력한다.
 */
 
-import java.util.*;
 import java.io.*;
 public class Q10872 {
     public static void main(String[] args) throws IOException{
