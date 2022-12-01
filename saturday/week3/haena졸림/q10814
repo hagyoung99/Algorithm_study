@@ -22,7 +22,7 @@ public class q10814 {
 		}
 		Arrays.sort(arr, new Comparator<String[]>() {
 			public int compare(String[] o1, String[] o2) {
-				return o1[0].compareTo(o2[0]); //0번 인덱스의 숫자 기준 오름차순 정렬(문제 규칙 성립)
+				return o1[0].compareTo(o2[0]); //0, 홀수번 인덱스의 숫자 기준 오름차순 정렬(문제 규칙 성립)
 			}
 		});
 		System.out.println(Arrays.deepToString(arr)); //정렬(단어 입력순대로 자동 정렬)
