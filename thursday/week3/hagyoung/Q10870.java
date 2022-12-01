@@ -24,5 +24,13 @@ public class Q10870 {
             else fibo[i] = fibo[i-1]+fibo[i-2];
         }
         System.out.println(fibo[N]);
+        System.out.println();
+        System.out.println(fi(N));
+    }
+
+    public static int fi(int N){
+        if(N==0) return 0;
+        else if(N==1) return 1;
+        else return fi(N-1)+fi(N-2);
     }
 }

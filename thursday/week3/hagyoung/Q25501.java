@@ -25,7 +25,5 @@ public class Q25501 {
             sb.append('\n');
         }
         System.out.println(sb);
-
-        
     }
 }
