@@ -4,12 +4,12 @@ import java.util.Scanner;
 
 public class q10872 {
 
-	private static int result=1;
-	private static void factorial(int n) 
+	private static int result=1; //초기화
+	private static void factorial(int n) //재귀
 	{
 		if(n==0) return;
 
-		result*=n;
+		result*=n; //factorial(0)일때까지 팩토리얼 함수 실행후 main에서 출력 
 		factorial(n-1);	
 		
 	}
@@ -17,7 +17,7 @@ public class q10872 {
 
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();
-		if(n>12)return;
+		if(n>12)return; //문제 범위 조건 
 		factorial(n);
 		System.out.println(result);
 		
