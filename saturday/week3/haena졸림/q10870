@@ -1,0 +1,20 @@
+package study.week3;
+
+import java.util.Scanner;
+
+public class q10870 {
+	private static int fibo(int n) {
+		if(n<=2)return 1; //index[0]=0; index[1]=1값은 고정임.
+		
+		return fibo(n-1)+fibo(n-2);//피보나치 규칙
+	}
+
+	public static void main(String[] args) {
+
+		Scanner sc=new Scanner(System.in);
+		int n=sc.nextInt();
+		
+		fibo(n);
+		System.out.println(fibo(n));
+	}
+}
