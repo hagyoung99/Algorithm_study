@@ -35,7 +35,6 @@ public class Q2798 {
                 }
             }
         }
-
         System.out.println(answer);
     }
 }

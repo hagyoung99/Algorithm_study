@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0e80003-d27c-4eeb-94d4-7a246f22e99c" name="변경" comment="" />
+    <list default="true" id="b0e80003-d27c-4eeb-94d4-7a246f22e99c" name="변경" comment="Update Q2751">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,8 +22,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2HWlxzGJcx1hX1v8RcMgX9Sr7bF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,6 +71,35 @@
       <option name="presentableId" value="Default" />
       <updated>1668408972677</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update Q2587">
+      <created>1668477207232</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668477207232</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update Q25305">
+      <created>1668477254809</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668477254809</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update Q10989">
+      <created>1668477404790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668477404790</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update Q2751">
+      <created>1668477500061</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668477500061</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +112,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update Q2587" />
+    <MESSAGE value="Update Q25305" />
+    <MESSAGE value="Update Q10989" />
+    <MESSAGE value="Update Q2751" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Q2751" />
   </component>
 </project>
