@@ -3,6 +3,17 @@
 <br>
 
 
+## 5주차 문제 링크입니다. (22.12.09 ~ 22.12.15)
+1. [7568번 덩치](https://www.acmicpc.net/problem/7568) - 김다
+
+2. [1018번 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)  - 진성
+
+3. [1436번 영화감독 숌](https://www.acmicpc.net/problem/1436) - 국비
+
+4. [10815번 숫자 카드](https://www.acmicpc.net/problem/10815)  - 얼음
+
+5. [14425번 문자열 집합](https://www.acmicpc.net/problem/14425) - ALO
+
 
 ## 4주차 문제 링크입니다. (22.12.02 ~ 22.12.08)
 1. [24060번 알고리즘 수업 - 병합 정렬1](https://www.acmicpc.net/problem/24060) - 얼음
