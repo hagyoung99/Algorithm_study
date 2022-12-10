@@ -44,6 +44,7 @@ def insert_space(y_start, x_start, length):
    # 6행 4열, 6행 5열, 6행 6열
    # 만 공백 처리가 된 것
    #
+   # 이 2중 for문이 1+3분의1~3분의1x2까지 ' '공백을 채우는 부분 (9x9인 경우 4,5,6)
     for y in range(y_start+third, y_start + third*2):
         for x in range(x_start+third, x_start + third*2):
             BOARD[y][x] = ' '
