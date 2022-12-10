@@ -1,11 +1,8 @@
 let fs = require("fs");
-let input = fs.readFileSync("/dev/stdin")
-	.toString()
-	.trim()
-	.split("\n")
-	.map((el) => el.split(" ").map((el) => Number(el)));
+let input = fs.readFileSync("/dev/stdin").toString().trim().split("\n").map((n) => n.split(" ").map((n) => Number(n)));
 let arr = input.slice(1, input.length);
 let result = [];
+[ [160,57], [160,55]]
 
 for (let i = 0; i < arr.length; i++) {
 	let grade = 1;  // 사람 바뀔 때마다 초기화
