@@ -1,4 +1,3 @@
-package thursday.week5.hagyoung99;
 /*
 문제
     숫자 카드는 정수 하나가 적혀져 있는 카드이다. 상근이는 숫자 카드 N개를 가지고 있다. 
