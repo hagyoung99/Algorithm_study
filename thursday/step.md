@@ -2,6 +2,16 @@
 ### 금요일~목요일 을 한 주로 진행합니다! 목요일 발표 전까지 해당하는 주차의 문제를 풀어서 올려주세요!
 <br>
 
+## 6주차 문제 링크입니다. (22.12.16 ~ 22.12.22)
+1. [1620번 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) - 국비
+
+2. [10816번 숫자 카드2](https://www.acmicpc.net/problem/10816)  - oe
+
+3. [1764번 듣보잡](https://www.acmicpc.net/problem/1764) - 진성
+
+4. [1269번 대칭 차집합](https://www.acmicpc.net/problem/1269)  - 김다 
+
+5. [11478번 서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) - 귀차니즘
 
 ## 5주차 문제 링크입니다. (22.12.09 ~ 22.12.15)
 1. [7568번 덩치](https://www.acmicpc.net/problem/7568) - 김다
