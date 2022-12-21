@@ -5,6 +5,20 @@
 ### 스터디원 모두가 해당 문제를 발표하지 못할 상황이면 그 문제는 넘기도록 하겠습니다.
 <br>
 
+## 6주차 문제 링크 (22.12.18~22.12.24)
+[Q1764_듣보잡](https://www.acmicpc.net/problem/1764)-야마
+
+[Q1269_대칭 차집합](https://www.acmicpc.net/problem/1269)-동원
+
+[Q11478_서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)-고구마
+
+[Q10828_스택](https://www.acmicpc.net/problem/10828)-빽
+
+[Q10773_제로](https://www.acmicpc.net/problem/10773)-카와이
+
+[Q9012_괄호](https://www.acmicpc.net/problem/9012)-프런트
+
+
 ## 5주차 문제 링크 (22.12.11~22.12.17)
 [1018_체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)-백
 
