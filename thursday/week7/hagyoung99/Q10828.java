@@ -30,7 +30,6 @@ public class Q10828 {
                 }
             }
         }
-
         System.out.println(sb);
     }
 }
