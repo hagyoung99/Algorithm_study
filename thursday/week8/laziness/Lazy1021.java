@@ -5,6 +5,7 @@ public class Lazy1021 {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt(), m = scanner.nextInt(); scanner.nextLine();
         int[] numbers = Arrays.stream(scanner.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
+        scanner.close();
         LinkedList<Integer> list = new LinkedList<>(); // 입력 끝
         for (int i = 1; i <= n; i++) list.addLast(i); // 1부터 n까지 list에 넣어줌
         int cnt = 0;
