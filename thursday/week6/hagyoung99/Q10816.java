@@ -1,27 +1,24 @@
-import java.util.*;
-import java.io.*;
+package thursday.week6.hagyoung99;
 
-public class Main {
+import java.io.*;
+import java.util.*;
+public class Q10816 {
     public static void main(String[] args) throws IOException{
-        BufferedReader in =new BufferedReader(new InputStreamReader(System.in));
-        int nCnt = Integer.parseInt(in.readLine());
-        StringTokenizer nStr = new StringTokenizer(in.readLine());
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int N = Integer.parseInt(br.readLine());
+        StringTokenizer st = new StringTokenizer(br.readLine());
 
         Map<Integer, Integer> map = new HashMap<>();
-        int i=0;
-        while(i++<nCnt){
-            int n = Integer.parseInt(nStr.nextToken());
-            map.put(n, map.getOrDefault(n, 0)+1);
+        for(int i=0;i<N;i++) {
+            int x = Integer.parseInt(st.nextToken());
+            map.put(x, map.getOrDefault(x, 0)+1);
         }
-
-        StringBuffer answer = new StringBuffer();
-        nCnt = Integer.parseInt(in.readLine());
-        nStr = new StringTokenizer(in.readLine());
-        i=0;
-        while(i++<nCnt){
-            answer.append(map.getOrDefault(Integer.parseInt(nStr.nextToken()), 0));
-            answer.append(" ");
+        int M = Integer.parseInt(br.readLine());
+        st = new StringTokenizer(br.readLine());
+        StringBuilder sb = new StringBuilder();
+        for(int i=0;i<M;i++) {
+            sb.append(map.getOrDefault(Integer.parseInt(st.nextToken()), 0)).append(" ");
         }
-        System.out.println(answer);
+        System.out.println(sb);
     }
 }
