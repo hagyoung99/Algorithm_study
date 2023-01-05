@@ -19,6 +19,6 @@ for value in value_arr:
             result_arr.append(hashmap[value])
         else:
             result_arr.append('0')
-result = ' '.join(map(str, result_arr))
+result = ''.join(map(str, result_arr))
 
 print(result)
