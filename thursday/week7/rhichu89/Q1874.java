@@ -30,7 +30,7 @@ public class Q1874 {
                 sb.append("-\n");
             } else {
                 int pop = stack.pop();
-                if (pop > current) {
+                if (pop != current) {
                     System.out.println("NO");
                     return;
                 } else {
