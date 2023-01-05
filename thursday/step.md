@@ -11,6 +11,20 @@
 > ### 업로드 경로는 week7과 week8로 기존과 동일하게 업로드해주시면 됩니다!
 <br/><br/>
 
+## 9주차 문제 (23.01.06 ~ 23.01.12)
+1. [5430번 AC](https://www.acmicpc.net/problem/5430) - choon
+
+2. [3273번 두 수의 합](https://www.acmicpc.net/problem/3273)  - 귀차니즘
+
+3. [2470번 두 용액](https://www.acmicpc.net/problem/2470) - 김다
+
+4. [1806번 부분합](https://www.acmicpc.net/problem/1806)  - oe
+
+5. [1644번 소수의 연속합](https://www.acmicpc.net/problem/1644) - 국비
+
+6. [1450번 냅색문제](https://www.acmicpc.net/problem/1450) - 얼음
+
+
 ## 8주차 문제 (22.12.23 ~ 23.01.05)
 1. [2164번 카드2](https://www.acmicpc.net/problem/2164) - ALO
 
@@ -23,6 +37,7 @@
 5. [10866번 덱](https://www.acmicpc.net/problem/10866) - 김다
 
 6. [1021번 회전하는 큐](https://www.acmicpc.net/problem/1021) - 귀차니즘
+
 
 ## 7주차 문제 (22.12.23 ~ 23.01.05)
 
