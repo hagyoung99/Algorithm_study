@@ -18,7 +18,8 @@ public class Main {
         for(int i=0;i<n;i++) {
             q.add(i+1);
         }
-
+ // 마지막 원소만 남겨질 때까지만
+//		  반복하고 마지막 원소는 그대로 출력한다.
         System.out.print("<");
         while (q.size()>0){
             //맨앞 poll 큐에 추가 큐의 시작을 변경
