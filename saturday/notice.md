@@ -5,6 +5,21 @@
 ### 스터디원 모두가 해당 문제를 발표하지 못할 상황이면 그 문제는 넘기도록 하겠습니다.
 <br>
 
+## 9주차 문제 링크 (23.01.08~23.01.14)
+[Q1450_냅색문제](https://www.acmicpc.net/problem/1450)-고구마
+
+[Q1920_수 찾기](https://www.acmicpc.net/problem/1920)-동원
+
+[Q10816_숫자 카드 2](https://www.acmicpc.net/problem/10816)-시리
+
+[Q1654_랜선 자르기](https://www.acmicpc.net/problem/1654)-시아
+
+[Q2805_나무 자르기](https://www.acmicpc.net/problem/2805)-빽
+
+[Q2110_공유기 설치](https://www.acmicpc.net/problem/2110)-프런트
+
+[Q1300_K번째 수](https://www.acmicpc.net/problem/1300)-야마
+
 ## 8주차 문제 링크 (23.01.01~23.01.07)
 [Q10866_덱](https://www.acmicpc.net/problem/10866)-프런트
 
