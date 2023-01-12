@@ -1,29 +1,26 @@
+package thursday.week9.hagyoung99;
+
+import java.io.*;
 import java.util.*;
-
 public class Q1806 {
-    public int solution(int n, int m, int[] arr){
+    public static void main(String[] args) throws IOException{
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        int N = Integer.parseInt(st.nextToken());
+        int S = Integer.parseInt(st.nextToken());
+        st = new StringTokenizer(br.readLine());
+        int[] arr = new int[N];
+        for(int i=0;i<N;i++) arr[i] = Integer.parseInt(st.nextToken());
+
         int answer = Integer.MAX_VALUE;
-
-        int lt=0, rt =0, sum =0;
-        while(lt < n){
-            if(sum >= m || rt == n){
-                if(sum >= m) answer = Math.min(answer, (rt - lt));
+        int lt = 0, rt = 0, sum = 0;
+        while(lt<N){
+            if(sum>=S || rt == N){
+                if(sum>= S) answer = Math.min(answer, (rt-lt));
                 sum -= arr[lt++];
-            }else if(sum < m) sum += arr[rt++];
-
+            }else if(sum<S) sum+= arr[rt++];
         }
-        if(answer < Integer.MAX_VALUE) return answer;
-        else return 0;
-    }
-    public static void main(String[] args) {
-        Main main = new Main();
-
-        Scanner in = new Scanner(System.in);
-        int n = in.nextInt();
-        int m = in.nextInt();
-        int[] arr = new int[n];
-        for(int i=0;i<n;i++) arr[i] = in.nextInt();
-
-        System.out.println(main.solution(n, m, arr));
+        answer = answer<Integer.MAX_VALUE ? answer : 0;
+        System.out.println(answer);
     }
 }
