@@ -11,6 +11,22 @@
 > ### 업로드 경로는 week7과 week8로 기존과 동일하게 업로드해주시면 됩니다!
 <br/><br/>
 
+
+## 10주차 문제 (23.01.13 ~ 23.01.19) : 이분 탐색
+1. [1920번 수 찾기](https://www.acmicpc.net/problem/1920) - oe
+
+2. [10816번 숫자 카드2](https://www.acmicpc.net/problem/10816)  - 국비
+
+3. [1654번 랜선 자르기](https://www.acmicpc.net/problem/1654) - ALO
+
+4. [2805번 나무 자르기](https://www.acmicpc.net/problem/2805)  - 귀차니즘
+
+5. [2110번 공유기 설치](https://www.acmicpc.net/problem/2110) - 얼음
+
+6. [1300번 k번째 수](https://www.acmicpc.net/problem/1300) - choon
+
+
+
 ## 9주차 문제 (23.01.06 ~ 23.01.12)
 1. [5430번 AC](https://www.acmicpc.net/problem/5430) - choon
 
