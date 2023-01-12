@@ -1,31 +1,34 @@
 package thursday.week9.laziness;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.util.Arrays;
+import java.io.*;
+import java.util.*;
 
 public class Lazy1450 {
     public static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+    public static ArrayList<Integer> list = new ArrayList<>();
     public static void main(String[] args) throws Exception {
-        String[] nc = reader.readLine().split(" ");
-        int n = Integer.parseInt(nc[0]),  c = Integer.parseInt(nc[1]);
-        int[] arr = Arrays.stream(reader.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
+        StringTokenizer st = new StringTokenizer(reader.readLine());
+        int n = Integer.parseInt(st.nextToken());
+        int c = Integer.parseInt(st.nextToken());
+        st = new StringTokenizer(reader.readLine());
+        int[] arr = new int[n];
+        for(int i = 0 ; i < n ; i++) arr[i] = Integer.parseInt(st.nextToken());
+
         Arrays.sort(arr);
-        int cnt = (int) Math.pow(2, n);
-        int end = n, start = 0;
-        while(start <= end) {
-            if(arr[start] < c) {
-                cnt = 1; break;
-            }
-            long sum = 0;
-            for(int i = 0 ; i < end ; i++) sum += arr[i];
-            if(sum > c) {
-                cnt--;
-                end--;
-            } else {
-                break;
-            }
+        getSums(arr, n, 0, c, 0, 1);
+        System.out.println(list.size());
+    }
+    private static void getSums(int[] arr, int n, int start, int c, int sum, int depth) {
+        if(sum <= c) {
+            list.add(sum);
+        } else {
+            return;
         }
-        System.out.println(cnt);
+        if(depth > n) return;
+        for (int i = start; i < n; i++) {
+            sum += arr[i];
+            getSums(arr, n, i + 1, c, sum, depth + 1);
+            sum -= arr[i];
+        }
     }
 }
