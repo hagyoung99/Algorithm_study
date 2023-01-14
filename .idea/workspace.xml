@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3107da0-b310-4d92-a446-ecdc4c64dcc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/thursday/week9/oeyh/3273_두수의합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thursday/week9/oeyh/5430_AC.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c3107da0-b310-4d92-a446-ecdc4c64dcc5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +85,7 @@
       <workItem from="1673179518320" duration="25631000" />
       <workItem from="1673454627699" duration="955000" />
       <workItem from="1673498351434" duration="7999000" />
+      <workItem from="1673686693129" duration="118000" />
     </task>
     <task id="LOCAL-00001" summary="ㅁ">
       <created>1669464056796</created>
