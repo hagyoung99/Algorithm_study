@@ -1,5 +1,12 @@
 let fs = require("fs");
 let input = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
+/*
+2 2
+1 1
+
+4
+*/
+
 
 const [N, C] = input[0].split(" ").map(Number);
 let weights = input[1].split(" ").map(Number);

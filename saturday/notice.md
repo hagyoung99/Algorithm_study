@@ -3,7 +3,26 @@
 ### 원활한 발표 진행을 위해 7문제 중 발표할 문제를 미리 배정하여 준비하도록 합니다.
 ### 발표 예정이었던 분이 불참했을 경우 설명 가능한 분이 하셔도 됩니다! 
 ### 스터디원 모두가 해당 문제를 발표하지 못할 상황이면 그 문제는 넘기도록 하겠습니다.
+### 알고리즘 
 <br>
+
+## 10주차 문제 링크 (23.01.15~23.01.21)
+### 알고리즘 설명 준비
+#### 고구마-이분탐색  시리-우선순위 큐  야마-빽트레킹
+
+[Q12015_가장 긴 증가하는 부분 수열2](https://www.acmicpc.net/problem/12015)-동원
+
+[Q11279_최대 힙](https://www.acmicpc.net/problem/11279)-빽
+
+[Q1927_최소 힙](https://www.acmicpc.net/problem/1927)-시리
+
+[Q11286_절댓값 힙](https://www.acmicpc.net/problem/11286)-프런트
+
+[Q15649_N과 M(1)](https://www.acmicpc.net/problem/15649)-야마
+
+[Q15650_N과 M(2)](https://www.acmicpc.net/problem/15650)-시아
+
+[Q15651_N과 M(3)](https://www.acmicpc.net/problem/15651)-고구마
 
 ## 9주차 문제 링크 (23.01.08~23.01.14)
 [Q1450_냅색문제](https://www.acmicpc.net/problem/1450)-고구마
