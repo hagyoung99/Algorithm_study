@@ -16,6 +16,23 @@
 <br/><br/>
 
 
+## 11주차 문제 (23.01.20~23.01.26) : 이분탐색, 우선순위 큐, 백트레킹
+- [백트래킹] - 국비
+
+1. [12015번 가장 긴 증가하는 부분 수열2](https://www.acmicpc.net/problem/12015) - choon
+
+2. [11279번 최대 힙](https://www.acmicpc.net/problem/11279)  - oe
+
+3. [1927번 최소 힙](https://www.acmicpc.net/problem/1927) - 김다
+
+4. [11286번 절댓값 힙](https://www.acmicpc.net/problem/11286)  -귀차니즘 
+
+5. [15649번 N과 M(1)](https://www.acmicpc.net/problem/15649) - 얼음
+
+6. [15650번 N과 M(2)](https://www.acmicpc.net/problem/15650) - 얼음
+
+
+
 ## 10주차 문제 (23.01.13 ~ 23.01.19) : 이분 탐색
 - [우선순위 큐] - 김다
 
