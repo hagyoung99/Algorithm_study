@@ -6,6 +6,22 @@
 
 <br>
 
+## 11주차 문제 링크 (23.01.22~23.01.28)
+### 알고리즘 설명 준비
+#### 빽-너비 우선 탐색
+
+[Q15652_N과 M(4)](https://www.acmicpc.net/problem/15652)-동원
+
+[Q9663_N-Queen](https://www.acmicpc.net/problem/9663)-고구마
+
+[Q2580_스도쿠](https://www.acmicpc.net/problem/2580)-프런트
+
+[Q14888_연산자 끼워넣기](https://www.acmicpc.net/problem/14888)-야마
+
+[Q14889_스타트와 링크](https://www.acmicpc.net/problem/14889)-시리
+
+[Q24479_알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479)-빽
+
 ## 10주차 문제 링크 (23.01.15~23.01.21)
 ### 알고리즘 설명 준비
 #### 야마-빽트레킹 동원-깊이 우선 탐색 시아-너비 우선 탐색
