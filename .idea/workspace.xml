@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3107da0-b310-4d92-a446-ecdc4c64dcc5" name="Changes" comment="Changes">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/saturday/week9/XiLee/BJ_10816.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/saturday/week9/XiLee/BJ_1300.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/saturday/week9/XiLee/BJ_1450.java" afterDir="false" />
@@ -14,6 +15,10 @@
       <change afterPath="$PROJECT_DIR$/saturday/week9/야마/냅색.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/saturday/week9/야마/랜선자르기.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/saturday/week9/야마/숫자카드2.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_01_11_12_29_AM.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_01_11_12_29_AM.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +53,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/oeyh/Desktop/study/ct/Algorithm_study/thursday/week8/oeyh&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/코테문풀/Discord_Algorithm_study&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   },
   &quot;keyToStringList&quot;: {
