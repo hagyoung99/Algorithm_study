@@ -16,6 +16,29 @@
 <br/><br/>
 
 
+## 11주차 문제 (23.01.27~23.02.02) : 백트레킹
+- [그래프와 순회(DFS, BFS)] - choon
+
+1. [15651번 N과 M(3)](https://www.acmicpc.net/problem/15651) - 얼음
+
+2. [15652번 N과 M(4)](https://www.acmicpc.net/problem/15652)  - 김다
+
+3. [9663번 N-Queen](https://www.acmicpc.net/problem/9663) - choon
+
+4. [2580번 스도쿠](https://www.acmicpc.net/problem/2580)  - 국비
+
+5. [14888번 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) - oe
+
+6. [14889번 스타트와 링크](https://www.acmicpc.net/problem/14889) - 귀차니즘
+
+\+ [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
+
+++ [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
+
++++ [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+
+
+
 ## 11주차 문제 (23.01.20~23.01.26) : 이분탐색, 우선순위 큐, 백트레킹
 - [백트래킹] - 국비
 
