@@ -5,7 +5,6 @@ input = sys.stdin.readline
 n = int(input())
 # 최소 힙 생성
 heap = []
-result = []
 
 for _ in range(n):
     num = int(input())
