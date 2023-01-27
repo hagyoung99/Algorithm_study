@@ -22,9 +22,7 @@
 
 [Q24479_알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479)-빽
 
-<details>
-<summary>## 10주차 문제 링크 (23.01.15~23.01.21)</summary>
-<div markdown="10">
+## 10주차 문제 링크 (23.01.15~23.01.21)
 ### 알고리즘 설명 준비
 #### 야마-빽트레킹 동원-깊이 우선 탐색 시아-너비 우선 탐색
 
@@ -41,8 +39,7 @@
 [Q15650_N과 M(2)](https://www.acmicpc.net/problem/15650)-시아
 
 [Q15651_N과 M(3)](https://www.acmicpc.net/problem/15651)-고구마
-<div>
-</details>
+
 ## 9주차 문제 링크 (23.01.08~23.01.14)
 [Q1450_냅색문제](https://www.acmicpc.net/problem/1450)-고구마
 
