@@ -9,7 +9,7 @@ public class Q11286 {
         PriorityQueue<Integer> pq = new PriorityQueue<>(new Comparator<Integer>(){
             @Override
             public int compare(Integer o1, Integer o2) {
-                if(Math.abs(o1)>Math.abs(o2)) return Math.abs(o1) - Math.abs(o2);
+                if(Math.abs(o1)>Math.abs(o2)) return Math.abs(o1) - Math.abs(o2);//양수면 오름차순, 음수면 내림차순
                 else if(Math.abs(o1) == Math.abs(o2)) return o1-o2;
                 else return -1;
             }
