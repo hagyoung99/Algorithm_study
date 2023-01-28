@@ -1,5 +1,4 @@
 import heapq
-from heapq import heappush, heappop
 import sys
 
 N = int(sys.stdin.readline())

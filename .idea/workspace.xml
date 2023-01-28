@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3107da0-b310-4d92-a446-ecdc4c64dcc5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_01_11_12_29_AM/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thursday/week10/oeyh/1920수찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/thursday/week10/oeyh/1920수찾기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thursday/week11/peyh/11279.py" beforeDir="false" afterPath="$PROJECT_DIR$/thursday/week11/peyh/11279.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/oeyh/Desktop/study/ct/Algorithm_study/thursday/week8/oeyh&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/oeyh/Desktop/Study/Algorithm_study&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -92,7 +93,11 @@
       <workItem from="1673959008341" duration="1992000" />
       <workItem from="1674101892252" duration="22910000" />
       <workItem from="1674710725633" duration="686000" />
-      <workItem from="1674716688146" duration="4322000" />
+      <workItem from="1674716688146" duration="4468000" />
+      <workItem from="1674737954590" duration="2452000" />
+      <workItem from="1674802539995" duration="600000" />
+      <workItem from="1674806673202" duration="2081000" />
+      <workItem from="1674830419730" duration="2110000" />
     </task>
     <task id="LOCAL-00001" summary="ㅁ">
       <created>1669464056796</created>
