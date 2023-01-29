@@ -12,7 +12,6 @@ def binary_search(array, target, start, end):
     else:
         return binary_search(array, target, start, mid-1)
 
-
 N = int(sys.stdin.readline())
 array = list(map(int, sys.stdin.readline().split()))
 M = int(sys.stdin.readline())
