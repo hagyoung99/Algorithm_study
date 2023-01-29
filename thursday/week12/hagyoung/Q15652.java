@@ -11,7 +11,6 @@ public class Q15652 {
         int M = Integer.parseInt(st.nextToken());
         int[] arr = new int[M]; 
         DFS(0, N, M, 0, arr);
-
         System.out.println(sb);
     }
 
