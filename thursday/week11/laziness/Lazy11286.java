@@ -11,13 +11,13 @@ public class Lazy11286 {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
         int n = Integer.parseInt(reader.readLine());
-        PriorityQueue<Integer> queue = new PriorityQueue<>((x, y) -> {
-            if (Math.abs(x) == Math.abs(y)) return x - y;
-            else return Math.abs(x) - Math.abs(y);
+        PriorityQueue<Long> queue = new PriorityQueue<>((x, y) -> {
+            if (Math.abs(x) == Math.abs(y)) return (int) (x - y);
+            else return (int) (Math.abs(x) - Math.abs(y));
         });
         
         for (int i = 0; i < n; i++) {
-            int data = Integer.parseInt(reader.readLine());
+            long data = Integer.parseInt(reader.readLine());
             if(data == 0) {
                 if(queue.isEmpty()) writer.write("0\n");
                 else writer.write(queue.poll() + "\n");
