@@ -38,6 +38,7 @@ public class Lazy2580 {
                 }
             }
             board[row][col] = 0;
+            return;
         }
         solution(row, col + 1);
     }
