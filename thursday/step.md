@@ -16,6 +16,25 @@
 <br/><br/>
 
 
+## 13주차 문제 (23.02.03~23.02.09) : 그래프와 순회(DFS, BFS)
+- [Tree] - oe
+
+1. [24479번 알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) - choon
+
+2. [24480번 알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480)  - 김다
+
+3. [24444번 알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) - 귀차니즘
+
+4. [24445번 알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/2580)  - 얼음
+
+5. [2606번 바이러스](https://www.acmicpc.net/problem/2606) - 국비
+
+\+ [포켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) - 지누
+
+++ [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) - 해철
+
+
+
 ## 12주차 문제 (23.01.27~23.02.02) : 백트레킹
 - [그래프와 순회(DFS, BFS)] - choon
 
