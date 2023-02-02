@@ -12,6 +12,7 @@ public class Lazy14889 {
         int n = Integer.parseInt(reader.readLine());
         arr = new int[n][n];
         for(int i = 0 ; i < n ; i++) arr[i] = Arrays.stream(reader.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
+        
         combination(n, n / 2, 0, 0);
         System.out.println(Collections.min(diffs));
         reader.close();
@@ -30,8 +31,7 @@ public class Lazy14889 {
     }
 
     private static void getDiff(int n) {
-        int team1 = 0;
-        int team2 = 0;
+        int team1 = 0, team2 = 0;
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
                 if(stark.contains(i) && stark.contains(j)) {
