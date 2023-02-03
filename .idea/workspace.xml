@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3107da0-b310-4d92-a446-ecdc4c64dcc5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/thursday/week13/oeyh/24479_깊이우선탐색1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thursday/week10/oeyh/10816숫자카드.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thursday/week10/oeyh/1920수찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thursday/week11/peyh/11279.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thursday/week11/peyh/11286.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thursday/week11/peyh/12015.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thursday/week11/peyh/15649.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thursday/week11/peyh/15650.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thursday/week11/peyh/1927.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thursday/week12/oeyh/15651_N과M(3).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thursday/week12/oeyh/15652_N과M(4).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thursday/week12/oeyh/9663_N-Queen.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +108,16 @@
       <workItem from="1674802539995" duration="600000" />
       <workItem from="1674806673202" duration="2081000" />
       <workItem from="1674830419730" duration="2764000" />
-      <workItem from="1675003567861" duration="139000" />
+      <workItem from="1675003567861" duration="1388000" />
+      <workItem from="1675064708831" duration="173000" />
+      <workItem from="1675064924851" duration="6000" />
+      <workItem from="1675163766141" duration="1933000" />
+      <workItem from="1675176214872" duration="8443000" />
+      <workItem from="1675248305860" duration="1205000" />
+      <workItem from="1675268241918" duration="15311000" />
+      <workItem from="1675395714578" duration="7758000" />
+      <workItem from="1675410757336" duration="2133000" />
+      <workItem from="1675430300508" duration="2190000" />
     </task>
     <task id="LOCAL-00001" summary="ㅁ">
       <created>1669464056796</created>
@@ -201,7 +222,7 @@
     <SUITE FILE_PATH="coverage/Algorithm_study$4949_.coverage" NAME="4949_균형잡힌세상 Coverage Results" MODIFIED="1672635756127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week7/oeyh" />
     <SUITE FILE_PATH="coverage/Algorithm_study$18258_2.coverage" NAME="18258_큐2 Coverage Results" MODIFIED="1672758287910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week7/oeyh" />
     <SUITE FILE_PATH="coverage/Algorithm_study$2108_.coverage" NAME="2108. Coverage Results" MODIFIED="1669460579919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week2/oeyh" />
-    <SUITE FILE_PATH="coverage/Algorithm_study$asd.coverage" NAME="asd Coverage Results" MODIFIED="1673018911188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week9/oeyh" />
+    <SUITE FILE_PATH="coverage/Algorithm_study$asd.coverage" NAME="asd Coverage Results" MODIFIED="1675064927691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week12/oeyh" />
     <SUITE FILE_PATH="coverage/Algorithm_study$11279.coverage" NAME="11279 Coverage Results" MODIFIED="1674734217327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week11/peyh" />
     <SUITE FILE_PATH="coverage/Algorithm_study$love.coverage" NAME="love Coverage Results" MODIFIED="1672836657280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week8/oeyh" />
     <SUITE FILE_PATH="coverage/Algorithm_study$2110_.coverage" NAME="2110_공유기설치 Coverage Results" MODIFIED="1674203188771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week10" />
@@ -210,7 +231,9 @@
     <SUITE FILE_PATH="coverage/Algorithm_study$10828_.coverage" NAME="10828_스택 Coverage Results" MODIFIED="1672057523301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week7/oeyh" />
     <SUITE FILE_PATH="coverage/Algorithm_study$1370_.coverage" NAME="1370_두용액 Coverage Results" MODIFIED="1673351393389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week9/oeyh" />
     <SUITE FILE_PATH="coverage/Algorithm_study$1450.coverage" NAME="1450냅색 Coverage Results" MODIFIED="1673506317537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week9/oeyh" />
+    <SUITE FILE_PATH="coverage/Algorithm_study$15650.coverage" NAME="15650 Coverage Results" MODIFIED="1675319538599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week11/peyh" />
     <SUITE FILE_PATH="coverage/Algorithm_study$9012_.coverage" NAME="9012_괄호 Coverage Results" MODIFIED="1672125490944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week7/oeyh" />
     <SUITE FILE_PATH="coverage/Algorithm_study$10815.coverage" NAME="10815 Coverage Results" MODIFIED="1671600654519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week5/oeyh" />
+    <SUITE FILE_PATH="coverage/Algorithm_study$24479_1.coverage" NAME="24479_깊이우선탐색1 Coverage Results" MODIFIED="1675412712662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week13/oeyh" />
   </component>
 </project>
