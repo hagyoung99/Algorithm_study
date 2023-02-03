@@ -17,7 +17,6 @@ def dfs(graph, start_node, visited):
     need_visit= list()
     graph[start_node].sort()
 
-
 result = dfs(graph, r, visited)
 for i in result:
     print(i)
