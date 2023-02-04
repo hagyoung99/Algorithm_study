@@ -6,6 +6,30 @@
 
 <br>
 
+## 12주차 문제 링크 (23.02.05~23.02.11)
+
+### 트리
+[Q6416_트리인가?](https://www.acmicpc.net/problem/6416)-프런트
+
+[Q11725_트리의 부모 찾기](https://www.acmicpc.net/problem/11725)-빽
+
+[Q1991_트리 순회](https://www.acmicpc.net/problem/1991)-동원
+
+[Q9934_완전 이진 트리](https://www.acmicpc.net/problem/9934)-고구마
+
+[Q14675_단절점과 단절선](https://www.acmicpc.net/problem/14675)-시리
+
+### 수학
+[Q1978_소수 찾기](https://www.acmicpc.net/problem/1978)-고구마
+
+[Q2581_소수](https://www.acmicpc.net/problem/2581)-프런트
+
+[Q5347_LCM](https://www.acmicpc.net/problem/5347)-동원
+
+[Q2960_에라토스테네스의 체](https://www.acmicpc.net/problem/2960)-빽
+
+[Q9613_GCD 합](https://www.acmicpc.net/problem/9613)-시리
+
 ## 11주차 문제 링크 (23.01.22~23.01.28)
 ### 알고리즘 설명 준비
 #### 빽-너비 우선 탐색
