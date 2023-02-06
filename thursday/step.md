@@ -25,7 +25,7 @@
 
 3. [24444번 알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) - 귀차니즘
 
-4. [24445번 알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/2580)  - 얼음
+4. [24445번 알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445)  - 얼음
 
 5. [2606번 바이러스](https://www.acmicpc.net/problem/2606) - 국비
 
