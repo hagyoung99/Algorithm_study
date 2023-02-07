@@ -27,7 +27,7 @@ public class BOJ_15649 {
                 sb.append(j).append("");
             }
             sb.append('\n');
-            return;
+            return;         // dfs()다음으로 넘어가 방문했던 곳을 false로 설정
         }
 
         for (int i = 0 ; i < N ; i++){
