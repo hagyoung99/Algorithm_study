@@ -2,7 +2,7 @@ package thursday.week13.hagyoung;
 
 import java.io.*;
 import java.util.*;
-class Q24479{
+public class Q24480 {
     static int[] visit;
     static int count;
     public static void main(String[] args) throws IOException{
@@ -28,7 +28,7 @@ class Q24479{
         }
 
         for(int i=1;i<list.size();i++){  //정렬
-            Collections.sort(list.get(i));
+            Collections.sort(list.get(i), Collections.reverseOrder());
         }
 
         count = 1;
