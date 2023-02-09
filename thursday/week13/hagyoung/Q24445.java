@@ -31,14 +31,14 @@ public class Q24445 {
             Collections.sort(list.get(i), Collections.reverseOrder());
         }
 
-        DFS(R, list);
+        BFS(R, list);
 
         for(int i=1;i<=N;i++){
             System.out.println(visit[i]);
         }
     }
 
-    static void DFS(int R, ArrayList<ArrayList<Integer>> list){
+    static void BFS(int R, ArrayList<ArrayList<Integer>> list){
         Queue<Integer> q = new LinkedList<>();
         int cnt = 1;
 
