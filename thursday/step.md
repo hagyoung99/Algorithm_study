@@ -16,6 +16,25 @@
 <br/><br/>
 
 
+## 14주차 문제 (23.02.10~23.02.19) : 그래프와 순회(DFS, BFS)
+- [Tree] - oe
+
+1. [1260번 DFS와 BFS](https://www.acmicpc.net/problem/1260) - 지누
+
+2. [2667번 단지번호 붙이기](https://www.acmicpc.net/problem/2667)  - 해철
+
+3. [1012번 유기농 배추](https://www.acmicpc.net/problem/1012) - 귀차니즘
+
+4. [2178번 미로 탐색](https://www.acmicpc.net/problem/2178)  - choon
+
+5. [1697번 숨바꼭질](https://www.acmicpc.net/problem/1697) - 얼음
+
+\+ [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) - 국비
+
+++ [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578) - 김다
+
+
+
 ## 13주차 문제 (23.02.03~23.02.09) : 그래프와 순회(DFS, BFS)
 - [Tree] - oe
 
