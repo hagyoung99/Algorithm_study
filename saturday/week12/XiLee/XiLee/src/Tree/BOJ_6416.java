@@ -1,4 +1,2 @@
-package Tree;
-
-public class BOJ_6416 {
+package Tree;public class BOJ_6416 {
 }
