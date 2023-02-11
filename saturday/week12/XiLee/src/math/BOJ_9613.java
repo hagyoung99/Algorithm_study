@@ -25,9 +25,7 @@ public class BOJ_9613 {
                 }
             }
             System.out.println(sum);
-
         }
-
     }
     public static int GCD(int a, int b) {
         while(b != 0) {
@@ -42,3 +40,17 @@ public class BOJ_9613 {
 
 
 // 유클리드 호제법
+
+// a = 7, b = 29
+// r = 7
+// a = 29 , b = 7
+
+// r = 1
+// a = 7 , b = 1
+
+// r = 0
+// a = 1, b = 0
+
+
+
+
