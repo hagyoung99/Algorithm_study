@@ -42,6 +42,7 @@ def bfs(r):
                 bfs_visited[g] = 1
                 queue.append(g)
 
+
 dfs(v)
 print()
 bfs(v)

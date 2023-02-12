@@ -26,12 +26,14 @@ def dfs(x, y):
         dfs(x, y-1)
         dfs(x, y+1)
 
+
 for i in range(n):
     for j in range(n):
         if graph[i][j] == 1:
             dfs(i, j)
             result.append(count)
             count = 0
+
 
 result.sort()
 print(len(result))
