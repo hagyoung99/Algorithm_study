@@ -1,4 +1,6 @@
 ## 테스트 케이스 1
+![테스트 케이스 1 출력](https://user-images.githubusercontent.com/73889507/219383648-dd551848-5cb3-4dd4-85dd-efd313ce5cd5.PNG)
+![그래프 구현](https://user-images.githubusercontent.com/73889507/219383703-07f69a6b-7de6-448b-a102-7892fb5a0c2e.png)
 
 - DFS로 탐색하는 경우
 
@@ -24,9 +26,10 @@
 
 (6) 1-2-3-4 의 순서로 방문하게 됨
 
-![bfss.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b624cd9c-ac88-4ae3-847b-dc483cb8dc62/bfss.png)
+## 테스트 케이스 2
 
-![bfs.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/286048a2-d241-4846-9513-055657896e5d/bfs.png)
+![테스트 케이스 2 출력](https://user-images.githubusercontent.com/73889507/219383812-dbac5a71-dd4a-42ad-b50f-75d4be8db96d.PNG)
+![그래프 구현](https://user-images.githubusercontent.com/73889507/219383843-b7418541-6222-44cb-8fa2-78e8e517b579.png)
 
 - DFS로 탐색하는 경우
 
