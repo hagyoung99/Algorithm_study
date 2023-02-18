@@ -6,6 +6,22 @@
 
 <br>
 
+## 14주차 문제 링크 (23.02.19~23.02.25)
+### 알고리즘 설명 준비
+#### 앙버터 -> 투포인터!  빽 -> 이분탐색!
+
+[Q2003_수들의 합 2](https://www.acmicpc.net/problem/2003)-빽
+
+[Q3273_두 수의 합](https://www.acmicpc.net/problem/3273)-고구마
+
+[Q10025_게으른 백곰](https://www.acmicpc.net/problem/10025)-홍이 
+
+[Q2559_수열](https://www.acmicpc.net/problem/2559)-시리
+
+[Q2428_표절](https://www.acmicpc.net/problem/2428)-동원
+
+[Q15565_귀여운 라이언](https://www.acmicpc.net/problem/15565)-앙버터
+
 ## 13주차 문제 링크 (23.02.13~23.02.18)
 ### 알고리즘 설명 준비
 #### 앙버터 -> 투포인터!
