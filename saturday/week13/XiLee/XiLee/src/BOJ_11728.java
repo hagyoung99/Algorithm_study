@@ -16,7 +16,6 @@ public class BOJ_11728 {
         int []arr2 = new int[n];
         int []answer = new int[n+m];
 
-
         st = new StringTokenizer(br.readLine());
         for(int i = 0 ; i < n ; i++){
             arr1[i] = Integer.parseInt(st.nextToken());
