@@ -5,10 +5,23 @@ import java.util.*;
 
 public class Q6159_코스튬파티 {
 	public static void main(String[] args) {
+		
+		/* 입력할경우
+		 4 6
+		 3
+		 5
+		 2
+		 1 
+		 */
+		
+		/* 출력할경우
+		 4
+		 */
+		
 		 try {
 			 BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		        StringBuilder sb = new StringBuilder();
-		        //선언 및 입력
+		        //선언 및 입력 합니다
 		        int N,S,cows[],cnt=0;
 		        int end=0;
 		       
@@ -36,6 +49,7 @@ public class Q6159_코스튬파티 {
 		        
 			        for(int start = 0;start<N-1;start++) {
 			        	end = start+1;
+			        	
 			        	if(cows[start]>=S)
 			        		break;
 			        	while(end <N && cows[start]+cows[end]<=S) {
@@ -43,7 +57,9 @@ public class Q6159_코스튬파티 {
 			        		end++;
 			        	}
 			        }
+			        
 			        System.out.println(cnt);
+			        
 		    	} catch (Exception e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
