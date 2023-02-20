@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d5140bc-c89e-4a98-a0ef-68c1691d5b67" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XiLee/src/BOJ_1940.java" beforeDir="false" afterPath="$PROJECT_DIR$/XiLee/src/BOJ_1940.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XiLee/src/BOJ_2018.java" beforeDir="false" afterPath="$PROJECT_DIR$/XiLee/src/BOJ_2018.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XiLee/src/BOJ_20922.java" beforeDir="false" afterPath="$PROJECT_DIR$/XiLee/src/BOJ_20922.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9a54daa8-d3a4-40f0-a123-6dd80fdaf554" />
+        <option name="url" value="https://github.com/NutellaCode/Discord_Algorithm_study.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LubACAbiM1ByCdXzH9aNmp2Jky" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/CodingTest/Discord_Algorithm_study/saturday/week13"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d5140bc-c89e-4a98-a0ef-68c1691d5b67" name="Changes" comment="" />
+      <created>1676723768611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676723768611</updated>
+    </task>
+    <servers />
+  </component>
+</project>
