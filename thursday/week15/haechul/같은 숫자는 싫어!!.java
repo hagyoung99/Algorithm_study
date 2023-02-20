@@ -9,29 +9,29 @@ import java.util.stream.IntStream;
 
 public class Solution {
     public static int[] solution(int []arr) {
-        int[] answer;
+//         int[] answer;
 
-        Deque<Integer> deque = new ArrayDeque<>();
+//         Deque<Integer> deque = new ArrayDeque<>();
 
-        for (int i = 0; i < arr.length; i++) {
-            if (deque.isEmpty() || deque.peekLast() != arr[i]) {
-                deque.addLast(arr[i]);
-            }
-        }
+//         for (int i = 0; i < arr.length; i++) {
+//             if (deque.isEmpty() || deque.peekLast() != arr[i]) {
+//                 deque.addLast(arr[i]);
+//             }
+//         }
 
-        answer = new int[deque.size()];
-        int idx = 0;
-        while (!deque.isEmpty()) {
-            answer[idx++] = deque.pollFirst();
-        }
+//         answer = new int[deque.size()];
+//         int idx = 0;
+//         while (!deque.isEmpty()) {
+//             answer[idx++] = deque.pollFirst();
+//         }
 
 
-        return answer;
+//         return answer;
 
-//        return IntStream.range(0, arr.length)
-//                .filter(i -> i == 0 || arr[i - 1] != arr[i])
-//                .map(i -> arr[i])
-//                .toArray();
+       return IntStream.range(0, arr.length)
+               .filter(i -> i == 0 || arr[i - 1] != arr[i])
+               .map(i -> arr[i])
+               .toArray();
     }
 }
 
