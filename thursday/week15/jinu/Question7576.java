@@ -3,6 +3,8 @@ package thursday.week15.jinu;
 import java.util.*;
 
 // 7576번 토마토(https://www.acmicpc.net/problem/7576)
+
+// 보관 후 하루가 지나면, 익은 토마토들의 인접한 곳에 있는 익지 않은 토마토들은 익은 토마토의 영향을 받아 익게됨 -> 인접한 노드를 모두 탐색 -> BFS
 class xy { // xy좌표 저장 클래스
     int x;
     int y;
