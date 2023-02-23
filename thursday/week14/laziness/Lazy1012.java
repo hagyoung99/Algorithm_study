@@ -14,12 +14,12 @@ public class Lazy1012 {
         int T = Integer.parseInt(reader.readLine());
         for(int caseNum = 0 ; caseNum < T ; caseNum++) {
             StringTokenizer st = new StringTokenizer(reader.readLine());
-            int m = Integer.parseInt(st.nextToken()), n = Integer.parseInt(st.nextToken()), k = Integer.parseInt(st.nextToken());
+            int n = Integer.parseInt(st.nextToken()), m = Integer.parseInt(st.nextToken()), k = Integer.parseInt(st.nextToken());
             int[][] arr = new int[n][m];
             for(int i = 0 ; i < k ; i++) {
                 st = new StringTokenizer(reader.readLine());
                 int x = Integer.parseInt(st.nextToken()), y = Integer.parseInt(st.nextToken());
-                arr[y][x] = 1;
+                arr[x][y] = 1;
             }
             int cnt = 0;
             for (int i = 0 ; i < n ; i++) {
