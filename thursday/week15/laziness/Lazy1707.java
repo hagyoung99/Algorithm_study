@@ -2,6 +2,7 @@ package thursday.week15.laziness;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
@@ -20,8 +21,8 @@ public class Lazy1707 {
             v = Integer.parseInt(st.nextToken());
             visited = new int[v];
             e = Integer.parseInt(st.nextToken());
-            edges = new LinkedList<>(); 
-            for(int i = 0; i < v ; i++) edges.add(new LinkedList<>());
+            edges = new ArrayList<>(); 
+            for(int i = 0; i < v ; i++) edges.add(new ArrayList<>());
             for(int i = 0 ; i < e ; i++) {
                 st = new StringTokenizer(reader.readLine());
                 int e1 = Integer.parseInt(st.nextToken());
