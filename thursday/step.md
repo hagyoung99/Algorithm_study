@@ -16,6 +16,24 @@
 <br/><br/>
 
 
+
+## 16주차 문제 (23.02.24~23.03.02) : 트리
+
+1. [11725번 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) - 귀차니즘
+
+2. [1167번 트리의 지름](https://www.acmicpc.net/problem/1167) - 지누
+
+3. [1967번 트리의 지름](https://www.acmicpc.net/problem/1967) - 김다
+
+4. [1991번 트리 순회](https://www.acmicpc.net/problem/1991) - 국비
+
+5. [2263번 트리의 순회](https://www.acmicpc.net/problem/2263) - oe
+
+6. [5639번 이진 검색 트리](https://www.acmicpc.net/problem/5639) -choon 
+
+7. [4803번 트리](https://www.acmicpc.net/problem/4803) - 해철
+
+
 ## 15주차 문제 (23.02.17~23.02.23) : 그래프와 순회(DFS, BFS)
 - [dp] - choon
 
