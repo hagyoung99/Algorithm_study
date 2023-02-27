@@ -1,17 +1,15 @@
 import sys
 from collections import deque
 
-v = int(sys.stdin.readline())
-graph = [[] for _ in range(v+1)]
+n = int(sys.stdin.readline())
+graph = [[] for _ in range(n+1)]
+visited = [False] * (n+1)
+distance = [0] * (n+1)
 queue = deque()
-visited = [False] * (v + 1)
-distance = [0] * (v + 1)
-
-
-for _ in range(v):
-    lst = list(map(int, sys.stdin.readline().split()))
-    for i in range(1, len(lst) -2, 2):
-        graph[lst[0]].append([lst[i], lst[i+1]])
+for _ in range(n-1):
+    a, b, weight = map(int, sys.stdin.readline().split())
+    graph[a].append([b, weight])
+    graph[b].append([a, weight])
 
 def bfs(start):
     queue.append(start)
@@ -25,10 +23,9 @@ def bfs(start):
                 queue.append(g[0])
                 distance[g[0]] = distance[node] + g[1]
 
-
 bfs(1)
 result_index = distance.index(max(distance))
-visited = [False] * (v + 1)
-distance = [0] * (v + 1)
+visited = [False] * (n + 1)
+distance = [0] * (n + 1)
 bfs(result_index)
 print(max(distance))
