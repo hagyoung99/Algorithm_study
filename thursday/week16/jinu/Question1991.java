@@ -1,7 +1,6 @@
 package thursday.week16.jinu;
 
 import java.io.*;
-import java.util.*;
 
 // 1991번 트리 순회(https://www.acmicpc.net/problem/1991)
 class Node {
@@ -19,79 +18,76 @@ class Node {
 public class Question1991 {
 	static Node[] graph;
 
-	public static void main(String[] args) throws Exception {
-		System.setIn(new FileInputStream("test.txt"));
+	static int N;
+	static Node[] arr;
+	static StringBuilder sb = new StringBuilder();
+
+	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		StringTokenizer st = new StringTokenizer(br.readLine());
-
-		int N = Integer.parseInt(st.nextToken());
-		graph = new Node[N];
-
+		N = Integer.parseInt(br.readLine());
+		arr = new Node[N];
 		for (int i = 0; i < N; i++) {
-			graph[i] = new Node(i);
+			arr[i] = new Node((char) (i + 'A'));
 		}
 
 		for (int i = 0; i < N; i++) {
-			st = new StringTokenizer(br.readLine());
-
-			int node = st.nextToken().charAt(0) - 'A';
-			int left = st.nextToken().charAt(0) - 'A';
-			int right = st.nextToken().charAt(0) - 'A';
-
-			if (left >= 0)
-				graph[node].leftchild = graph[left];
-			if (right >= 0)
-				graph[node].rightchild = graph[right];
-
-			if (left >= 0)
-				graph[left].parent = graph[node];
-			if (right >= 0)
-				graph[right].parent = graph[node];
+			char n, l, r;
+			String s = br.readLine();
+			n = s.charAt(0);
+			l = s.charAt(2);
+			r = s.charAt(4);
+			if (l != '.') {
+				arr[n - 'A'].left = arr[l - 'A'];
+			}
+			if (r != '.') {
+				arr[n - 'A'].right = arr[r - 'A'];
+			}
 		}
 
-		preOrder(0);
-		System.out.println();
-		inOrder(0);
-		System.out.println();
-		PostOrder(0);
+		// 전위 순회
+		preOrder(arr[0]);
+		sb.append("\n");
+		// 중위 순회
+		inOrder(arr[0]);
+		sb.append("\n");
+		// 후위 순회
+		postOrder(arr[0]);
+		sb.append("\n");
+
+		System.out.println(sb);
 	}
 
-	private static void PostOrder(int cur) {
-		// 왼쪽 노드 확인
-		if (graph[cur].leftchild != null)
-			PostOrder(graph[cur].leftchild.index);
-
-		// 오른쪽 노드 확인
-		if (graph[cur].rightchild != null)
-			PostOrder(graph[cur].rightchild.index);
-
-		// 자신 노드 확인
-		System.out.print((char) (graph[cur].index + 'A'));
+	static void preOrder(Node node) {
+		sb.append(node.ch);
+		if (node.left != null)
+			preOrder(node.left);
+		if (node.right != null)
+			preOrder(node.right);
 	}
 
-	private static void inOrder(int cur) {
-		// 왼쪽 노드 확인
-		if (graph[cur].leftchild != null)
-			inOrder(graph[cur].leftchild.index);
-
-		// 자신 노드 확인
-		System.out.print((char) (graph[cur].index + 'A'));
-
-		// 오른쪽 노드 확인
-		if (graph[cur].rightchild != null)
-			inOrder(graph[cur].rightchild.index);
+	static void inOrder(Node node) {
+		if (node.left != null)
+			inOrder(node.left);
+		sb.append(node.ch);
+		if (node.right != null)
+			inOrder(node.right);
 	}
 
-	private static void preOrder(int cur) {
-		// 자신 노드 확인
-		System.out.print((char) (graph[cur].index + 'A'));
+	static void postOrder(Node node) {
+		if (node.left != null)
+			postOrder(node.left);
+		if (node.right != null)
+			postOrder(node.right);
+		sb.append(node.ch);
+	}
 
-		// 왼쪽 노드 확인
-		if (graph[cur].leftchild != null)
-			preOrder(graph[cur].leftchild.index);
+	static class Node {
+		char ch;
+		Node left;
+		Node right;
 
-		// 오른쪽 노드 확인
-		if (graph[cur].rightchild != null)
-			preOrder(graph[cur].rightchild.index);
+		public Node(char ch) {
+			this.ch = ch;
+		}
 	}
 }
