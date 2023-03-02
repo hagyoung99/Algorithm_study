@@ -3,7 +3,7 @@ package thursday.week16.laziness;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class Lazy4803 {
+public class Lazy1991 {
     public static Node[] arr;
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
