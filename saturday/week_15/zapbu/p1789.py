@@ -3,7 +3,7 @@ S = int(input())
 CNT = 0
 n = 1
 
-while S > 0:
+while S > -1:
     S -= n
     n += 1
     CNT += 1
