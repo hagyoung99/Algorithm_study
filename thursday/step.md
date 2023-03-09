@@ -28,7 +28,7 @@
 
 6. [10836번 여왕벌]https://www.acmicpc.net/problem/10836 - 김다
 
-7. [리트코드 Unique Paths]https://leetcode.com/problems/unique-paths/ - 
+7. [리트코드 Unique Paths]https://leetcode.com/problems/unique-paths/ - 국비
 
 ## 17주차 문제 (23.03.02~23.03.09) : DP
 1.  [24416번 알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416) - 해철
