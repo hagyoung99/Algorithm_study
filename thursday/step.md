@@ -15,6 +15,21 @@
 > ### 업로드 경로는 week7과 week8로 기존과 동일하게 업로드해주시면 됩니다!
 <br/><br/>
 
+##18주차 문제 (23.03.09~23.03.16) : 코테 대비 1주차
+1. [리트코드 Rotate Image]https://leetcode.com/problems/rotate-image/ - 귀차니즘
+
+2. [2933번 미네랄]https://www.acmicpc.net/problem/2933 - 해철
+
+3. [12781번 PIZZA ALVOLOC]https://www.acmicpc.net/problem/12781 - 지누
+
+4. [3584번 가장가까운 공통 조상]https://www.acmicpc.net/problem/3584 - oe
+
+5. [18429번 근손실]https://www.acmicpc.net/problem/18429 - choon
+
+6. [10836번 여왕벌]https://www.acmicpc.net/problem/10836 - 김다
+
+7. [리트코드 Unique Paths]https://leetcode.com/problems/unique-paths/ - 
+
 ## 17주차 문제 (23.03.02~23.03.09) : DP
 1.  [24416번 알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416) - 해철
 
