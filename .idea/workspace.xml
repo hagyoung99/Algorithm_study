@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3107da0-b310-4d92-a446-ecdc4c64dcc5" name="Changes" comment="oeyh week 14 - 3" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I4eGwUlCqxAUlpJjIP5UCS84hs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/양진혁/Desktop/Study/Algorithm_study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/thursday/week8/oeyh" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Algorithm_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3107da0-b310-4d92-a446-ecdc4c64dcc5" name="Changes" comment="" />
+      <created>1669445190966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669445190966</updated>
+      <workItem from="1669445192563" duration="17479000" />
+      <workItem from="1669464129340" duration="1783000" />
+      <workItem from="1669700296904" duration="3269000" />
+      <workItem from="1669898851665" duration="538000" />
+      <workItem from="1669899392021" duration="1204000" />
+      <workItem from="1670073655063" duration="13000" />
+      <workItem from="1670204864635" duration="986000" />
+      <workItem from="1670502039810" duration="199000" />
+      <workItem from="1670502262289" duration="359000" />
+      <workItem from="1671413318889" duration="9364000" />
+      <workItem from="1671532754617" duration="46980000" />
+      <workItem from="1671712624103" duration="2130000" />
+      <workItem from="1671838824430" duration="18042000" />
+      <workItem from="1672120954596" duration="12733000" />
+      <workItem from="1672203139784" duration="2094000" />
+      <workItem from="1672380566276" duration="900000" />
+      <workItem from="1672383117064" duration="26000" />
+      <workItem from="1672383296270" duration="1338000" />
+      <workItem from="1672633658706" duration="1625000" />
+      <workItem from="1672635711904" duration="17965000" />
+      <workItem from="1672757794580" duration="5652000" />
+      <workItem from="1672816255795" duration="35701000" />
+      <workItem from="1673065841369" duration="6881000" />
+      <workItem from="1673179518320" duration="25631000" />
+      <workItem from="1673454627699" duration="955000" />
+      <workItem from="1673498351434" duration="7999000" />
+      <workItem from="1673686693129" duration="710000" />
+      <workItem from="1673959008341" duration="1992000" />
+      <workItem from="1674101892252" duration="22910000" />
+      <workItem from="1674710725633" duration="686000" />
+      <workItem from="1674716688146" duration="4468000" />
+      <workItem from="1674737954590" duration="2452000" />
+      <workItem from="1674802539995" duration="600000" />
+      <workItem from="1674806673202" duration="2081000" />
+      <workItem from="1674830419730" duration="2764000" />
+      <workItem from="1675003567861" duration="1388000" />
+      <workItem from="1675064708831" duration="173000" />
+      <workItem from="1675064924851" duration="6000" />
+      <workItem from="1675163766141" duration="1933000" />
+      <workItem from="1675176214872" duration="8443000" />
+      <workItem from="1675248305860" duration="1205000" />
+      <workItem from="1675268241918" duration="15311000" />
+      <workItem from="1675395714578" duration="7758000" />
+      <workItem from="1675410757336" duration="2133000" />
+      <workItem from="1675430300508" duration="11781000" />
+      <workItem from="1675750699185" duration="614000" />
+      <workItem from="1675833020836" duration="12000" />
+      <workItem from="1675867526252" duration="2771000" />
+      <workItem from="1675930327997" duration="1307000" />
+      <workItem from="1675954714831" duration="16000" />
+      <workItem from="1676037985375" duration="2927000" />
+      <workItem from="1676118020484" duration="4295000" />
+      <workItem from="1676177941864" duration="2282000" />
+      <workItem from="1676196863176" duration="4529000" />
+      <workItem from="1676210131378" duration="104000" />
+      <workItem from="1676290559483" duration="8126000" />
+      <workItem from="1676349193088" duration="24000" />
+      <workItem from="1676349575977" duration="9401000" />
+      <workItem from="1676388157190" duration="4158000" />
+      <workItem from="1676456536012" duration="674000" />
+      <workItem from="1676463609781" duration="9610000" />
+      <workItem from="1676551408250" duration="1942000" />
+      <workItem from="1676712398908" duration="1955000" />
+      <workItem from="1676729712881" duration="3000" />
+      <workItem from="1676812630188" duration="648000" />
+      <workItem from="1676892795598" duration="1163000" />
+      <workItem from="1677048761059" duration="61000" />
+      <workItem from="1677146066445" duration="5251000" />
+      <workItem from="1677212544302" duration="1194000" />
+      <workItem from="1677256343578" duration="7335000" />
+      <workItem from="1677332900663" duration="6942000" />
+      <workItem from="1677381426964" duration="7573000" />
+      <workItem from="1677397006189" duration="752000" />
+      <workItem from="1677497258974" duration="4317000" />
+      <workItem from="1677545047149" duration="9192000" />
+      <workItem from="1677658791024" duration="37647000" />
+      <workItem from="1677937840533" duration="1641000" />
+      <workItem from="1678288791685" duration="1485000" />
+      <workItem from="1678356549860" duration="6341000" />
+    </task>
+    <task id="LOCAL-00001" summary="ㅁ">
+      <created>1669464056796</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669464056796</updated>
+    </task>
+    <task id="LOCAL-00002" summary="주석 추가">
+      <created>1669464830767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669464830767</updated>
+    </task>
+    <task id="LOCAL-00003" summary="oeyh week4">
+      <created>1670502552882</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670502552882</updated>
+    </task>
+    <task id="LOCAL-00004" summary="oeyh week5">
+      <created>1671712639618</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671712639618</updated>
+    </task>
+    <task id="LOCAL-00005" summary="oeyh week5">
+      <created>1671712712006</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671712712006</updated>
+    </task>
+    <task id="LOCAL-00006" summary="oeyh week 7, 8">
+      <created>1672923097225</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672923097225</updated>
+    </task>
+    <task id="LOCAL-00007" summary="oeyh week 9 - 1~2">
+      <created>1673180136847</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673180136847</updated>
+    </task>
+    <task id="LOCAL-00008" summary="oeyh week 13 - 1">
+      <created>1675435609472</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675435609472</updated>
+    </task>
+    <task id="LOCAL-00009" summary="oeyh week 13 - 1">
+      <created>1675435668875</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675435668875</updated>
+    </task>
+    <task id="LOCAL-00010" summary="oeyh week 13 - p">
+      <created>1675871811179</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675871811179</updated>
+    </task>
+    <task id="LOCAL-00011" summary="oeyh week 14 - 1,2">
+      <created>1676210096635</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676210096635</updated>
+    </task>
+    <task id="LOCAL-00012" summary="oeyh week 14 - 1,2">
+      <created>1676210211983</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676210211983</updated>
+    </task>
+    <task id="LOCAL-00013" summary="oeyh week 14">
+      <created>1676551439891</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676551439891</updated>
+    </task>
+    <task id="LOCAL-00014" summary="oeyh week 14 - 3">
+      <created>1677514226836</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1677514226836</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ㅁ" />
+    <MESSAGE value="주석 추가" />
+    <MESSAGE value="oeyh week4" />
+    <MESSAGE value="oeyh week5" />
+    <MESSAGE value="oeyh week 7, 8" />
+    <MESSAGE value="oeyh week 9 - 1~2" />
+    <MESSAGE value="oeyh week 13 - 1" />
+    <MESSAGE value="oeyh week 13 - p" />
+    <MESSAGE value="oeyh week 14 - 1,2" />
+    <MESSAGE value="oeyh week 14" />
+    <MESSAGE value="oeyh week 14 - 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="oeyh week 14 - 3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm_study$2579_.coverage" NAME="2579-계단오르기 Coverage Results" MODIFIED="1678363591204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thursday/week17/oe" />
+  </component>
+</project>
