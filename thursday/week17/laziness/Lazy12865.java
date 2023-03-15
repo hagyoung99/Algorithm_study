@@ -11,6 +11,7 @@ public class Lazy12865 {
             weights[i] = scanner.nextInt();
             values[i] = scanner.nextInt();
         }
+        
         for(int i = 1; i <= n; i++) {
             for (int j = 1; j <= k; j++) {
                 if(j - weights[i] >= 0) dp[i][j] = Math.max(dp[i - 1][j], dp[i - 1][j - weights[i]] + values[i]);
