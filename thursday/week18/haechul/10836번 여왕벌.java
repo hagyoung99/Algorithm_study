@@ -58,7 +58,6 @@ public class Main {
             }sb.append("\n");
         }
 
-        // 3. 출력
         System.out.println(sb);
     }
 }
