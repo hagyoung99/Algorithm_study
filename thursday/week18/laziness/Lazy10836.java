@@ -10,6 +10,7 @@ public class Lazy10836 {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(reader.readLine());
         int m = Integer.parseInt(st.nextToken()), n = Integer.parseInt(st.nextToken());
+        
         int[][] field = new int[m][m];
         int[] arr = new int[2 * m - 1];
 
@@ -27,19 +28,12 @@ public class Lazy10836 {
             for(int j = m - 1; j >= 0 ; j--) field[j][0] += arr[idx++];
             for(int j = 1 ; j < m ; j++) field[0][j] += arr[idx++];
             
-
-            int[][] directions = {{-1, 0}, {0, -1}, {-1, -1}};
-            for(int j = 1 ; j < m ; j++) {
-                for(int k = 1; k < m ; k++) {
-                    int max = 0;
-                    for(int[] direction : directions) {
-                        int dx = k + direction[0], dy = j + direction[1];
-                        if(field[dy][dx] > max) max = field[dy][dx];
-                    }
-                    field[j][k] = max;
-                }
-            }
         }
+        
+        for(int i = 1 ; i < m ; i++) {
+            for(int j = 1; j < m ; j++) field[i][j] = field[0][j];
+        }
+
         for(int[] ar : field) {
             for(int i : ar) System.out.print(i + " ");
             System.out.println();
