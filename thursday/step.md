@@ -15,6 +15,21 @@
 > ### 업로드 경로는 week7과 week8로 기존과 동일하게 업로드해주시면 됩니다!
 <br/><br/>
 
+##19주차 문제 (23.03.16~23.03.23) : 코테 대비 2주차
+1. [2776번 암기왕]https://www.acmicpc.net/problem/2776 - 귀차니즘
+
+2. [5212번 지구 온난화]https://www.acmicpc.net/problem/5212 - oe
+
+3. [10250번 ACM 호텔]https://www.acmicpc.net/problem/10250 - 해철
+
+4. [9372번 - 상근이의 여행]https://www.acmicpc.net/problem/9372 - choon
+
+5. [1761번 - 정점들의 거리]https://www.acmicpc.net/problem/1761 - 지누
+
+6. [5557번 - 1학]https://www.acmicpc.net/problem/5557 - 김다
+
+7. [1303번 - 전]https://www.acmicpc.net/problem/1303 - 국비
+
 ##18주차 문제 (23.03.09~23.03.16) : 코테 대비 1주차
 1. [리트코드 Rotate Image]https://leetcode.com/problems/rotate-image/ - 귀차니즘
 
