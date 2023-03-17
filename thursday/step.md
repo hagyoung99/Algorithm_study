@@ -26,9 +26,9 @@
 
 5. [1761번 - 정점들의 거리]https://www.acmicpc.net/problem/1761 - 지누
 
-6. [5557번 - 1학]https://www.acmicpc.net/problem/5557 - 김다
+6. [5557번 - 1학년]https://www.acmicpc.net/problem/5557 - 김다
 
-7. [1303번 - 전]https://www.acmicpc.net/problem/1303 - 국비
+7. [1303번 - 전투]https://www.acmicpc.net/problem/1303 - 국비
 
 ##18주차 문제 (23.03.09~23.03.16) : 코테 대비 1주차
 1. [리트코드 Rotate Image]https://leetcode.com/problems/rotate-image/ - 귀차니즘
