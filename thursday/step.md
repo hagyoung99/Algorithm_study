@@ -24,7 +24,7 @@
 
 4. [9372번 - 상근이의 여행]https://www.acmicpc.net/problem/9372 - choon
 
-5. [1761번 - 정점들의 거리]https://www.acmicpc.net/problem/1761 - 지누
+5. [13335번 - 트럭]https://www.acmicpc.net/problem/13335 - 지누
 
 6. [5557번 - 1학년]https://www.acmicpc.net/problem/5557 - 김다
 
