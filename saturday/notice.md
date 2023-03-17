@@ -6,7 +6,9 @@
 
 <br>
 
-## 16주차 문제 링크 (23.02.26~23.03.04)
+## 17주차 문제 링크 (23.03.11~23.03.18)
+
+#### 문제푸시느라 고생많으셔요 화이팅 하셔유~🤯- 동원
 
 [Q22871_징검다리 건너기](https://www.acmicpc.net/problem/22871)후드
 
@@ -19,6 +21,20 @@
 [Q2422_한윤정이 이탈리아에 가서 아이스크림~!](https://www.acmicpc.net/problem/2422)-시리
 
 [Q18511_큰 수 구성하기](https://www.acmicpc.net/problem/18511)-앙버터
+
+## 16주차 문제 링크 (23.02.26~23.03.04)
+
+[Q2503_숫자 야구](https://www.acmicpc.net/problem/2503)후드
+
+[Q1969_DNA](https://www.acmicpc.net/problem/1969)-고구마
+
+[Q5568_카드 놓기](https://www.acmicpc.net/problem/5568)-빽
+
+[Q16439_치킨치킨치킨](https://www.acmicpc.net/problem/16439)-동원
+
+[Q14501_퇴사](https://www.acmicpc.net/problem/14501)-시리
+
+[Q17626_Four Squares](https://www.acmicpc.net/problem/17626)-앙버터
 
 ## 15주차 문제 링크 (23.02.26~23.03.04)
 
