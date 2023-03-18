@@ -1,8 +1,5 @@
-let [n, ...arr] = require("fs")
-  .readFileSync("input.txt")
-  .toString()
-  .split("\n")
-  .map((v) => v.split(" ").map((v) => +v)); //.map((v) => Number(v)
+let [n, ...arr] = require("fs").readFileSync("input.txt").toString().split("\n")
+                  .map((v) => v.split(" ").map((v) => +v)); //.map((v) => Number(v)
 
 n = n[0];
 const dp = new Array(n).fill(0);

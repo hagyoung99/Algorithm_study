@@ -5,7 +5,7 @@ let str = '';
 let res = 0;
 
 for(let i=0; i<L; ++i) {
-    let obj = {'T': 0, 'A': 0, 'G': 0, 'C': 0};
+    let obj = {'T': 2, 'A': 1, 'G': 0, 'C': 0};
     let c = 'Z';
     let cnt = 0;
 
@@ -21,7 +21,7 @@ for(let i=0; i<L; ++i) {
         }
     }
 
-    str += c;
+    str += c;  // T
     res += N-cnt;
 }
 console.log(str);
