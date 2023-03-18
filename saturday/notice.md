@@ -10,7 +10,7 @@
 
 #### 문제푸시느라 고생많으셔요 화이팅 하셔요~🤯- 동원
 
-[Q2503_숫자 야구](https://www.acmicpc.net/problem/2503)후드
+[Q2503_숫자 야구](https://www.acmicpc.net/problem/2503)-랜덤
 
 [Q1969_DNA](https://www.acmicpc.net/problem/1969)-고구마
 
