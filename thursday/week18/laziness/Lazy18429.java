@@ -10,12 +10,12 @@ public class Lazy18429 {
         int n = scanner.nextInt(), k = scanner.nextInt();
         int[] arr = new int[n];
         for(int i = 0 ; i < n ; i++) arr[i] = scanner.nextInt();
-        getAllcontiditions(arr, n, k);
+        getAllContiditions(arr, n, k);
         System.out.println(cnt);
         scanner.close();
     }
 
-    private static void getAllcontiditions(int[] arr, int n, int k) {
+    private static void getAllContiditions(int[] arr, int n, int k) {
         permutation(arr, 0, n, k);
     }
 
