@@ -27,6 +27,8 @@
 
 6. [20291번 파일 정리]https://www.acmicpc.net/problem/20291 - 김다
 
+7. [리트코드 Maxximum SubArray]https://leetcode.com/problems/maximum-subarray/ - 아이스
+
 
 ##19주차 문제 (23.03.16~23.03.23) : 코테 대비 2주차
 1. [2776번 암기왕]https://www.acmicpc.net/problem/2776 - 귀차니즘
