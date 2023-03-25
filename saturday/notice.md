@@ -8,15 +8,15 @@
 
 ## 18주차 문제 링크 (23.03.19~23.03.25)
 
-[Q16937_두 스티커](https://www.acmicpc.net/problem/2503)-앙버터
+[Q16937_두 스티커](https://www.acmicpc.net/problem/16937)-앙버터
 
-[Q16508_전공책](https://www.acmicpc.net/problem/1969)-고구마
+[Q16508_전공책](https://www.acmicpc.net/problem/16508)-고구마
 
-[Q9079_동전 게임](https://www.acmicpc.net/problem/5568)-동원
+[Q9079_동전 게임](https://www.acmicpc.net/problem/9079)-동원
 
-[Q14620_꽃길](https://www.acmicpc.net/problem/16439)-빽
+[Q14620_꽃길](https://www.acmicpc.net/problem/14620)-빽
 
-[Q2961_도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/14501)-시리
+[Q2961_도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)-시리
 
 ## 17주차 문제 링크 (23.03.11~23.03.18)
 
