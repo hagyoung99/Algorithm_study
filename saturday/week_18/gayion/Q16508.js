@@ -15,8 +15,8 @@ const solution = (_input) => {
 
   const books = [];
 
-  WORD.forEach((alphabet) => {
-    count[alphabet.charCodeAt(0) - 65]++;
+  WORD.forEach((alphabet) => { // 내가 만들고 싶은 문자열
+    count[alphabet.charCodeAt(0) - 65]++; // 대문자 A의 아스키코드는 65!
   });
 
   data.forEach((info) => {
@@ -36,18 +36,20 @@ const solution = (_input) => {
   };
 
   const dfs = (idx, total) => {
-    if (idx >= N) {
+    if (idx >= N) { // 책 갯수만큼
       if (check()) answer = Math.min(answer, total);
       return;
     }
 
-    for (let i = 0; i < books[idx][0].length; i++) {
+    for (let i = 0; i < books[idx][0].length; i++) {  // 책 제목을 이루는 알파벳 갯수만큼 for문
       const alpha = books[idx][0][i];
       select[alpha.charCodeAt(0) - 65]++;
     }
 
     dfs(idx + 1, total + books[idx][1]);
 
+    // idx번째 책을 선택하지 않을 경우 초기화?
+    // 힣....제가 더 공부해볼게여...
     for (let i = 0; i < books[idx][0].length; i++) {
       const alpha = books[idx][0][i];
       select[alpha.charCodeAt(0) - 65]--;
