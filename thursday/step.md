@@ -14,6 +14,21 @@
 > ### 1월 5일 10시 발표 시작 전에 7주차, 6주차 코드를 모두 올려주세요! 
 > ### 업로드 경로는 week7과 week8로 기존과 동일하게 업로드해주시면 됩니다!
 <br/><br/>
+##20주차 문제 (23.03.24~23.03.31) : 코테 대비 3주차
+1. [1495번 기타리스트]https://www.acmicpc.net/problem/1495 - 국비
+
+2. [5582번 공통 부분 문자열]https://www.acmicpc.net/problem/5582 - choon
+
+3. [17281번 야구]https://www.acmicpc.net/problem/17281 - 해철
+
+4. [1652번 누울 자리를 찾아라]https://www.acmicpc.net/problem/1652 - 지누
+
+5. [15903번 카드 합체 놀이]https://www.acmicpc.net/problem/15903 - 귀차니즘
+
+6. [20291번 파일 정리]https://www.acmicpc.net/problem/20291 - 김다
+
+7. [리트코드 Maxximum SubArray]https://leetcode.com/problems/maximum-subarray/ - 아이스
+
 
 ##19주차 문제 (23.03.16~23.03.23) : 코테 대비 2주차
 1. [2776번 암기왕]https://www.acmicpc.net/problem/2776 - 귀차니즘
