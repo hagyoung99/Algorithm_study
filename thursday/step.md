@@ -14,6 +14,20 @@
 > ### 1월 5일 10시 발표 시작 전에 7주차, 6주차 코드를 모두 올려주세요! 
 > ### 업로드 경로는 week7과 week8로 기존과 동일하게 업로드해주시면 됩니다!
 <br/><br/>
+##21주차 문제 (23.03.31~23.04.06) : 코테 대비 4주차
+1. [7490번 0만들기]https://www.acmicpc.net/problem/7490 - 아이스
+
+2. [17141번 연구소 2]https://www.acmicpc.net/problem/17141 - 지누
+
+3. [9657번 돌 게임3]https://www.acmicpc.net/problem/9657 - 귀차니즘
+
+4. [2659번 십자카드 문제]https://www.acmicpc.net/problem/2659 - 해철
+
+5. [2635번 수 이어가기]https://www.acmicpc.net/problem/2635 - choon
+
+6. [리트코드 - 점프게임]https://leetcode.com/problems/jump-game/ - 
+
+
 ##20주차 문제 (23.03.24~23.03.31) : 코테 대비 3주차
 1. [1495번 기타리스트]https://www.acmicpc.net/problem/1495 - 국비
 
