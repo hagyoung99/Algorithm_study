@@ -25,7 +25,7 @@
 
 5. [2635번 수 이어가기]https://www.acmicpc.net/problem/2635 - choon
 
-6. [리트코드 - 점프게임]https://leetcode.com/problems/jump-game/ - 
+6. [리트코드 - 점프게임]https://leetcode.com/problems/jump-game/ - 국비
 
 
 ##20주차 문제 (23.03.24~23.03.31) : 코테 대비 3주차
