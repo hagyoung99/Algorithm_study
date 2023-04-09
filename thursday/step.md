@@ -16,7 +16,7 @@
 
 5. [2548번 대표 자연수]https://www.acmicpc.net/problem/2548 - 아이스
 
-6. [1713번 후보 추천하기]https://www.acmicpc.net/problem/1713 - 
+6. [1713번 후보 추천하기]https://www.acmicpc.net/problem/1713 - 지누
 
 <br/><br/>
 ##21주차 문제 (23.03.31~23.04.06) : 코테 대비 4주차
