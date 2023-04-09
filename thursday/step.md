@@ -6,6 +6,20 @@
 
 <br/><br/>
 ##21주차 문제 (23.03.31~23.04.06) : 코테 대비 4주차
+1. [2669번 직사각형 네개의 합집의 면적 구하기]https://www.acmicpc.net/problem/2669 - 들쮜
+
+2. [2116번 주사위 쌓기]https://www.acmicpc.net/problem/2116 - choon
+
+3. [리트코드 Max area of island]https://leetcode.com/problems/max-area-of-island/ - 해철
+
+4. [10165번 격자상의 경로]https://www.acmicpc.net/problem/10164 - 국비
+
+5. [2548번 대표 자연수]https://www.acmicpc.net/problem/2548 - 아이스
+
+6. [1713번 후보 추천하기]https://www.acmicpc.net/problem/1713 - 
+
+<br/><br/>
+##21주차 문제 (23.03.31~23.04.06) : 코테 대비 4주차
 1. [7490번 0만들기]https://www.acmicpc.net/problem/7490 - 아이스
 
 2. [17141번 연구소 2]https://www.acmicpc.net/problem/17141 - 지누
