@@ -3,9 +3,20 @@
 <br/>
 
 > ### 10주차부터는 문제 발표 제외 인원은 그 다음주에 사용할 알고리즘에 대해 짧게 설명해주세요!
+<br/><br/>
+##22주차 문제 (23.04.14~23.04.20) : 코테 대비 6주차
+1. [2012번 등수 매기기]https://www.acmicpc.net/problem/2012 - 지누
+
+2. [3967번 매직 스타]https://www.acmicpc.net/problem/3967 - choon
+
+3. [2531번 회전 초밥]https://www.acmicpc.net/problem/2531 - 해철
+
+4. [16401번 과자 나눠주기]https://www.acmicpc.net/problem/16401 - 국비
+
+5. [12904번 A와 B]https://www.acmicpc.net/problem/12904 - 
 
 <br/><br/>
-##21주차 문제 (23.03.31~23.04.06) : 코테 대비 4주차
+##22주차 문제 (23.04.07~23.04.13) : 코테 대비 5주차
 1. [2669번 직사각형 네개의 합집의 면적 구하기]https://www.acmicpc.net/problem/2669 - 들쮜
 
 2. [2116번 주사위 쌓기]https://www.acmicpc.net/problem/2116 - choon
