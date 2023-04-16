@@ -16,12 +16,5 @@ public class Main {
         Arrays.sort(expected);
 
         System.out.println(IntStream.range(1, n + 1).mapToLong(i -> Math.abs(i - expected[i - 1])).sum());
-
-
-        long sum = 0;
-        for (int i = 1; i <= n; i++) {
-            sum += Math.abs(i - expected[i - 1]);
-        }
-        System.out.println(sum);
     }
 }
