@@ -17,26 +17,12 @@ public class Main {
                 sb.deleteCharAt(sb.length() - 1);
             } else if (endChar == 'B') {
                 sb.deleteCharAt(sb.length() - 1);
-                sb = reverse(sb.toString());
+                sb.reverse();
             } else {
                 break;
             }
         }
 
-        if (sb.toString().equals(s)) {
-            System.out.println(1);
-        } else {
-            System.out.println(0);
-        }
-    }
-
-    private static StringBuilder reverse(String str) {
-        StringBuilder result = new StringBuilder();
-
-        for (int i = str.length() - 1; i >= 0; i--) {
-            result.append(str.charAt(i));
-        }
-
-        return result;
+        System.out.println(sb.toString().equals(s) ? 1 : 0);
     }
 }
