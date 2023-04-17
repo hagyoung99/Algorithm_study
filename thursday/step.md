@@ -13,7 +13,7 @@
 
 4. [16401번 과자 나눠주기]https://www.acmicpc.net/problem/16401 - 국비
 
-5. [12904번 A와 B]https://www.acmicpc.net/problem/12904 - 
+5. [12904번 A와 B]https://www.acmicpc.net/problem/12904 - 들쮜
 
 <br/><br/>
 ##22주차 문제 (23.04.07~23.04.13) : 코테 대비 5주차
