@@ -3,8 +3,19 @@
 <br/>
 
 > ### 10주차부터는 문제 발표 제외 인원은 그 다음주에 사용할 알고리즘에 대해 짧게 설명해주세요!
+
+##24주차 문제 (23.04.14~23.04.20) : 코테 대비 6주차
+1. [10431번 줄세우기]https://www.acmicpc.net/problem/10431 - 국비
+
+2. [1863번 스카이라인 쉬운거]https://www.acmicpc.net/problem/1863 - choon
+
+3. [13305번 주유소]https://www.acmicpc.net/problem/13305 - 지누
+
+4. [2847번 게임을 만든 동준이]https://www.acmicpc.net/problem/2847 - 해철
+
+
 <br/><br/>
-##22주차 문제 (23.04.14~23.04.20) : 코테 대비 6주차
+##23주차 문제 (23.04.14~23.04.20) : 코테 대비 6주차
 1. [2012번 등수 매기기]https://www.acmicpc.net/problem/2012 - 지누
 
 2. [3967번 매직 스타]https://www.acmicpc.net/problem/3967 - choon
