@@ -22,7 +22,7 @@
 
 3. [2531번 회전 초밥]https://www.acmicpc.net/problem/2531 - 해철
 
-4. [16401번 과자 f나눠주기]https://www.acmicpc.net/problem/16401 - 국비
+4. [16401번 과자 나눠주기]https://www.acmicpc.net/problem/16401 - 국비
 
 5. [12904번 A와 B]https://www.acmicpc.net/problem/12904 - 들쮜
 
