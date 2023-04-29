@@ -19,20 +19,20 @@ const sol = (input) => {
 
   while (queue.length) {
     const [x, y, cnt] = queue.shift();
-    for (let [xi, yi] of direction) {
+    for (let [xi, yi] of direction) {  // 이동 가능한 좌표
       const nx = x + xi;
       const ny = y + yi;
       if (nx >= 0 && ny >= 0 && nx < n && ny < n && !visited[nx][ny]) { // visited[nx][ny]에 방문한 적이 없을 경우
         visited[nx][ny] = 1;
         if (nx === r2 && ny === c2) {
-          return cnt + 1;   // 퉷
+          return cnt + 1;   
         }
         queue.push([nx, ny, cnt + 1]);
       }
     }
   }
 
-  // 모든 좌표를 탐색하고 나오면 -1을 리턴
+  // 모든 좌표를 탐색하고 나오면 -1을 리턴 == 목표 지점에 도달할 수 없음을 의미
   return -1;
 };
 
