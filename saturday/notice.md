@@ -20,27 +20,27 @@
 
 ## 21주차 문제 링크 (23.04.09~23.04.15)
 
-[Q13023_](https://www.acmicpc.net/problem/13023)-동원
+[Q13023_ABCDE](https://www.acmicpc.net/problem/13023)-동원
 
-[Q5547_](https://www.acmicpc.net/problem/5547)-앙버터
+[Q5547_일루미네이션](https://www.acmicpc.net/problem/5547)-앙버터
 
-[Q2668_](https://www.acmicpc.net/problem/11725)-고구마
+[Q2668_숫자고르기](https://www.acmicpc.net/problem/2668)-고구마
 
-[Q17836_](https://www.acmicpc.net/problem/1325)-빽
+[Q17836_공주님을 구해라!](https://www.acmicpc.net/problem/17836)-빽
 
-[Q13549_](https://www.acmicpc.net/problem/2178)-시리
+[Q13549_숨바꼭질3](https://www.acmicpc.net/problem/13549)-시리
 
 ## 20주차 문제 링크 (23.04.02~23.04.08)
 
 [Q2667_단지번호붙이기](https://www.acmicpc.net/problem/2606)-시리
 
-[Q16918_봄버맨](https://www.acmicpc.net/problem/1260)-동원
+[Q16918_봄버맨](https://www.acmicpc.net/problem/16918)-동원
 
-[Q14940_쉬운 최단거리](https://www.acmicpc.net/problem/11725)-빽
+[Q14940_쉬운 최단거리](https://www.acmicpc.net/problem/14940)-빽
 
-[Q7569_토마토](https://www.acmicpc.net/problem/1325)-고구마
+[Q7569_토마토](https://www.acmicpc.net/problem/7569)-고구마
 
-[Q16234_인구 이동](https://www.acmicpc.net/problem/2178)-앙버터
+[Q16234_인구 이동](https://www.acmicpc.net/problem/16234)-앙버터
 
 ## 19주차 문제 링크 (23.03.26~23.04.01)
 ### 트리 개념 설명 - 고구마 (근데 잘 모르겠어요 여러분 하하하하)
