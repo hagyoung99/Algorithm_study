@@ -3,6 +3,16 @@
 <br/>
 
 > ### 10주차부터는 문제 발표 제외 인원은 그 다음주에 사용할 알고리즘에 대해 짧게 설명해주세요!
+##25주차 문제 (23.04.27~23.05.04) : 코테 대비 7주차
+1. [1261번 알고스팟]https://www.acmicpc.net/problem/1261 - choon
+
+2. [1446번 지름길]https://www.acmicpc.net/problem/1446 - 해철
+
+3. [5567번 결혼식]https://www.acmicpc.net/problem/5567 - 지누
+
+4. [3184번 양]https://www.acmicpc.net/problem/3184 - 국비
+
+
 
 ##24주차 문제 (23.04.14~23.04.20) : 코테 대비 6주차
 1. [10431번 줄세우기]https://www.acmicpc.net/problem/10431 - 국비
