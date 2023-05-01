@@ -12,7 +12,7 @@
 
 4. [3184번 양]https://www.acmicpc.net/problem/3184 - 국비
 
-
+5. [1535번 안녕]https://www.acmicpc.net/problem/1535 - choon (추가문제, 간단)
 
 ##24주차 문제 (23.04.14~23.04.20) : 코테 대비 6주차
 1. [10431번 줄세우기]https://www.acmicpc.net/problem/10431 - 국비
