@@ -3,6 +3,9 @@ package thursday.week24.jinu;
 import java.util.*;
 import java.io.*;
 
+// 기름 통 크기 무제한
+// 기본 식 5 * 2 + (3 * 2) + (4 * 1) = 20
+// 최소 식(기름 값 쌀 경우 갱신) 5 * 2 + ((2 * 3) + (2 * 1)) = 18
 public class BOJ13305 {
 
     public static void main(String[] args) throws IOException {
