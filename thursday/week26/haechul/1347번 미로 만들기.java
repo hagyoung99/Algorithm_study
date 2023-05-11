@@ -15,26 +15,20 @@ public class Main {
         int y = n;
         int minX = x, maxX = x;
         int minY = y, maxY = y;
+        int[][] dir = {{1, 0}, {0, -1}, {-1, 0}, {0, 1}};
 
-        int dir = 0; // 남 : 0 / 서 : 1 / 북 : 2 / 동 : 3
+        int currentDir = 0; // 남 : 0 / 서 : 1 / 북 : 2 / 동 : 3
         miro[x][y] = 1;
 
         for (int i = 0; i < oper.length(); i++) {
             char target = oper.charAt(i);
             if (target == 'L') {
-                dir = (dir + 3) % 4;
+                currentDir = (currentDir + 3) % 4;
             } else if (target == 'R') {
-                dir = (dir + 1) % 4;
+                currentDir = (currentDir + 1) % 4;
             } else {
-                if (dir == 0) {
-                    x += 1;
-                } else if (dir == 1) {
-                    y -= 1;
-                } else if (dir == 2) {
-                    x -= 1;
-                } else if (dir == 3) {
-                    y += 1;
-                }
+                x += dir[currentDir][0];
+                y += dir[currentDir][1];
                 miro[x][y] = 1;
                 minX = Math.min(minX, x);
                 minY = Math.min(minY, y);
