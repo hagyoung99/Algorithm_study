@@ -3,6 +3,18 @@
 <br/>
 
 > ### 10주차부터는 문제 발표 제외 인원은 그 다음주에 사용할 알고리즘에 대해 짧게 설명해주세요!
+> ##27주차 문제 (23.0515.~23.05.18) : 코테 대비 9주차
+1. [1261번 알고스팟]https://www.acmicpc.net/problem/1261 - 앙버터
+
+2. [1446번 지름]https://www.acmicpc.net/problem/1446- oe
+
+3. [2195번 문자열 복사]https://www.acmicpc.net/problem/2195 - 해철
+
+4. [1726번 로봇]https://www.acmicpc.net/problem/1726 - choon
+
+5. [13975번 파일 합치기3]https://www.acmicpc.net/problem/13975- 지누
+
+6. [1421번 나무꾼 이다솜]https://www.acmicpc.net/problem/1421 - 더 풀고싶으신 분은 푸세요!
 
 ##26주차 문제 (23.05.04~23.05.11) : 코테 대비 8주차
 1. [20125번 쿠키의 신체 측정]https://www.acmicpc.net/problem/20125 - 지누
