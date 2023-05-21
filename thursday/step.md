@@ -6,7 +6,7 @@
 > ##28주차 문제 (23.05.21.~23.05.25) : 코테 대비 10주차
 1. [5213번 과외맨]https://www.acmicpc.net/problem/5213 - choon
 
-2. [16967번 배열 복원하기]https://www.acmicpc.net/problem/16967- 해철
+2. [16967번 배열 복원하기]https://www.acmicpc.net/problem/16967 해철
 
 3. [2195번 문자열 복사]https://www.acmicpc.net/problem/2195 - 해철
 
