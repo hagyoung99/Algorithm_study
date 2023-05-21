@@ -3,6 +3,20 @@
 <br/>
 
 > ### 10주차부터는 문제 발표 제외 인원은 그 다음주에 사용할 알고리즘에 대해 짧게 설명해주세요!
+> ##28주차 문제 (23.05.21.~23.05.25) : 코테 대비 10주차
+1. [5213번 과외맨]https://www.acmicpc.net/problem/5213 - choon
+
+2. [16967번 배열 복원하기]https://www.acmicpc.net/problem/16967- 해철
+
+3. [2195번 문자열 복사]https://www.acmicpc.net/problem/2195 - 해철
+
+4. [2174번 로봇 시뮬레이션]https://www.acmicpc.net/problem/2174 - 앙버터
+
+5. [1189번 컴백홈]https://www.acmicpc.net/problem/1189- 지누
+
+6. [10655번 마라톤 1]https://www.acmicpc.net/problem/10655 - oe
+
+
 > ##27주차 문제 (23.0515.~23.05.18) : 코테 대비 9주차
 1. [1261번 알고스팟]https://www.acmicpc.net/problem/1261 - 앙버터
 
