@@ -12,7 +12,7 @@
 
 4. [2174번 로봇 시뮬레이션]https://www.acmicpc.net/problem/2174 - 앙버터
 
-5. [1189번 컴백홈]https://www.acmicpc.net/problem/1189- 지누
+5. [1189번 컴백홈]https://www.acmicpc.net/problem/1189 - 지누
 
 6. [10655번 마라톤 1]https://www.acmicpc.net/problem/10655 - oe
 
