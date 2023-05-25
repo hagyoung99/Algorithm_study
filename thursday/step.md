@@ -8,8 +8,6 @@
 
 2. [16967번 배열 복원하기]https://www.acmicpc.net/problem/16967 해철
 
-3. [2195번 문자열 복사]https://www.acmicpc.net/problem/2195 - 해철
-
 4. [2174번 로봇 시뮬레이션]https://www.acmicpc.net/problem/2174 - 앙버터
 
 5. [1189번 컴백홈]https://www.acmicpc.net/problem/1189 - 지누
@@ -21,8 +19,6 @@
 1. [1261번 알고스팟]https://www.acmicpc.net/problem/1261 - 앙버터
 
 2. [1446번 지름]https://www.acmicpc.net/problem/1446- oe
-
-3. [2195번 문자열 복사]https://www.acmicpc.net/problem/2195 - 해철
 
 4. [1726번 로봇]https://www.acmicpc.net/problem/1726 - choon
 
