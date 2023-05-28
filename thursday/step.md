@@ -3,6 +3,18 @@
 <br/>
 
 > ### 10주차부터는 문제 발표 제외 인원은 그 다음주에 사용할 알고리즘에 대해 짧게 설명해주세요!
+> ##29주차 문제 (23.05.25.~23.06.1) : 코테 대비 11주차
+1. [9944번 N x M 보드 완주하기]https://www.acmicpc.net/problem/9944 - oe
+
+2. [14925번 목장 건설하기]https://www.acmicpc.net/problem/14925 - 지누
+
+4. [2660번 회장뽑기]https://www.acmicpc.net/problem/2660 - choon
+
+5. [1325번 효율적인 해킹]https://www.acmicpc.net/problem/1325 - 앙버
+
+6. [10282번 해킹]https://www.acmicpc.net/problem/10282 - 다익스트라 추가 문제
+(플로이드 와샬 참고하기 좋은 곳 : https://sskl660.tistory.com/61)
+
 > ##28주차 문제 (23.05.21.~23.05.25) : 코테 대비 10주차
 1. [5213번 과외맨]https://www.acmicpc.net/problem/5213 - choon
 
