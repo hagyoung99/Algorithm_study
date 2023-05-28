@@ -10,7 +10,7 @@
 
 4. [2660번 회장뽑기]https://www.acmicpc.net/problem/2660 - choon
 
-5. [1325번 효율적인 해킹]https://www.acmicpc.net/problem/1325 - 앙버
+5. [1325번 효율적인 해킹]https://www.acmicpc.net/problem/1325 - 앙버터
 
 6. [10282번 해킹]https://www.acmicpc.net/problem/10282 - 다익스트라 추가 문제
 (플로이드 와샬 참고하기 좋은 곳 : https://sskl660.tistory.com/61)
