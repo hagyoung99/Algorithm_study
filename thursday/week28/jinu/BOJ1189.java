@@ -3,6 +3,9 @@ package thursday.week28.jinu;
 import java.util.*;
 import java.io.*;
 
+// 한가지 방법에서 같은 칸을 방문하면 안되니 방문 처리
+// 방문 처리는 다른 경로에서는 갈 수 있어야 하므로 현재 경로의 dfs를 돌고 나면 방문 처리를 해제
+// T에는 가지 않도록 체크
 public class BOJ1189 {
     static int R, C, K;
     static char[][] map;
