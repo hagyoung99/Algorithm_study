@@ -3,6 +3,20 @@
 <br/>
 
 > ### 10주차부터는 문제 발표 제외 인원은 그 다음주에 사용할 알고리즘에 대해 짧게 설명해주세요!
+> ##30주차 문제 (23.06.01.~23.06.08) : 코테 대비 12주차
+1. [2096번 내려가기]https://www.acmicpc.net/problem/2096 - 앙버터
+
+2. [1915번 가장 큰 정사각형]https://www.acmicpc.net/problem/1915 - 국비
+
+4. [16434번 드래곤 앤 던전]https://www.acmicpc.net/problem/16434 - 해철
+
+5. [14461번 소가 길을 건너간 이유]https://www.acmicpc.net/problem/14461 - choon
+
+6. [14938번 서강그라운드]https://www.acmicpc.net/problem/14938 - oe
+
+7. 불닭님 문제 : https://www.acmicpc.net/problem/2444(별찍기 - 7)
+
+
 > ##29주차 문제 (23.05.25.~23.06.1) : 코테 대비 11주차
 1. [9944번 N x M 보드 완주하기]https://www.acmicpc.net/problem/9944 - oe
 
