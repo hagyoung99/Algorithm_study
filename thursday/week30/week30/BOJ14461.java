@@ -1,0 +1,58 @@
+package week30;
+import java.util.*;
+class Cow{
+	int x;
+	int y;
+	int time;
+	int limit;
+	Cow(int x, int y, int time, int limit){
+		this.x = x;
+		this.y = y;
+		this.time = time;
+		this.limit = limit;
+	}
+}
+public class BOJ14461 {
+	static int n, t;
+	static int[][] arr;
+	static boolean[][][] visit;
+	static int[][] dir = {{-1, 0}, {1, 0}, {0, 1}, {0, -1}};
+	static int answer = Integer.MAX_VALUE;
+	static PriorityQueue<Cow> queue = new PriorityQueue<>((o1, o2) -> o1.time - o2.time);
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		n = scan.nextInt();
+		t = scan.nextInt();
+		arr = new int[n][n];
+		visit = new boolean[n][n][3];
+		for(int i = 0; i < n; i++)
+			for(int j = 0; j < n; j++) 
+				arr[i][j] = scan.nextInt();
+		queue.offer(new Cow(0, 0, 0, 0));
+		dijkstra();
+		System.out.println(answer);
+	}
+	static void dijkstra() {
+		while(!queue.isEmpty()) {
+			Cow now = queue.poll();
+			if(visit[now.x][now.y][now.limit % 3])
+				continue;
+			visit[now.x][now.y][now.limit % 3] = true;
+			if(now.x == n - 1 && now.y == n - 1) {
+				answer = Math.min(answer, now.time);
+				continue;
+			}
+			for(int i = 0; i < 4; i++) {
+				int nx = now.x + dir[i][0];
+				int ny = now.y + dir[i][1];
+				if(nx < 0 || ny < 0 || nx >= n || ny >= n)
+					continue;
+				if((now.limit  + 1) % 3 != 0) {
+					queue.offer(new Cow(nx, ny, now.time + t, now.limit + 1));					
+				}else {
+					queue.offer(new Cow(nx, ny, now.time + t + arr[nx][ny], now.limit + 1));
+				}
+			}
+		}
+	}
+}
