@@ -3,6 +3,21 @@
 <br/>
 
 > ### 10주차부터는 문제 발표 제외 인원은 그 다음주에 사용할 알고리즘에 대해 짧게 설명해주세요!
+> ##31주차 문제 (23.06.09.~23.06.15) : 코테 대비 13주차
+1. [14461번 뮤탈리스크]https://www.acmicpc.net/problem/12869 - oe
+
+2. [1106번 호텔]https://www.acmicpc.net/problem/1106 - 지누
+
+4. [18405번 경쟁적 전염]https://www.acmicpc.net/problem/18405 - 앙버터
+
+5. [20164번 호수 홀릭 호석]https://www.acmicpc.net/problem/20164 - 해철
+
+6. [14725번 개미굴]https://www.acmicpc.net/problem/14725 - choon
+
+7. 불닭님 문제 :https://www.acmicpc.net/problem/2941
+
+8. 다익스트라 공부 하고싶으신분들 전용 문제 : https://www.acmicpc.net/problem/1719
+
 > ##30주차 문제 (23.06.01.~23.06.08) : 코테 대비 12주차
 1. [2096번 내려가기]https://www.acmicpc.net/problem/2096 - 앙버터
 
