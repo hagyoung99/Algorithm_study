@@ -1,10 +1,21 @@
 ### 문제를 푸시고, week / [이름 or 닉네임] / [푼 문제 파일] 형식으로 업로드해주세요! -> 한 주에 5개의 풀이가 쌓이게 됩니다!
 ### 금요일~목요일 을 한 주로 진행합니다! 목요일 발표 전까지 해당하는 주차의 문제를 풀어서 올려주세요!
 <br/>
-
-> ### 10주차부터는 문제 발표 제외 인원은 그 다음주에 사용할 알고리즘에 대해 짧게 설명해주세요!
 > ##31주차 문제 (23.06.09.~23.06.15) : 코테 대비 13주차
-1. [14461번 뮤탈리스크]https://www.acmicpc.net/problem/12869 - oe
+1. [6443번 애너그램]https://www.acmicpc.net/problem/6443
+
+2. [1938번 통나무 옮기기]https://www.acmicpc.net/problem/1938
+
+3. [16987번 계란으로 가위치기]https://www.acmicpc.net/problem/16987
+
+<<<추가  문제>>>
+1. [1244번 스위치 켜고 끄기]https://www.acmicpc.net/problem/1244
+
+3. 불닭님 문제 : https://www.acmicpc.net/problem/2578
+
+
+> ##31주차 문제 (23.06.09.~23.06.15) : 코테 대비 13주차
+10. [14461번 뮤탈리스크]https://www.acmicpc.net/problem/12869 - oe
 
 2. [1106번 호텔]https://www.acmicpc.net/problem/1106 - 지누
 
