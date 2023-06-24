@@ -13,7 +13,9 @@
 
 5. [2344번 거울]https://www.acmicpc.net/problem/2344 - oe
    
-etc. MST 문제 [1922번 네트워크 연결] https://www.acmicpc.net/problem/1922 
+<<<추가문제>>>
+
+MST 문제 [1922번 네트워크 연결] https://www.acmicpc.net/problem/1922 
 
 개념 이해 : https://gmlwjd9405.github.io/2018/08/28/algorithm-mst.html
 
