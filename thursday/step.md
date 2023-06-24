@@ -1,6 +1,22 @@
 ### 문제를 푸시고, week / [이름 or 닉네임] / [푼 문제 파일] 형식으로 업로드해주세요! -> 한 주에 5개의 풀이가 쌓이게 됩니다!
 ### 금요일~목요일 을 한 주로 진행합니다! 목요일 발표 전까지 해당하는 주차의 문제를 풀어서 올려주세요!
 <br/>
+> ##32주차 문제 (23.06.24.~23.29.) : 코테 대비 14주차
+1. [9742번 순열] https://www.acmicpc.net/problem/9742 - 해철
+
+2. [16509번 장군] https://www.acmicpc.net/problem/16509 - 앙버터
+
+3. [1013번 Contact] https://www.acmicpc.net/problem/1013 - choon
+
+4. [1072번 게임] https://www.acmicpc.net/problem/1072 - 지누
+
+5. [2344번 거울]https://www.acmicpc.net/problem/2344 - oe
+   
+etc. MST 문제 [1922번 네트워크 연결] https://www.acmicpc.net/problem/1922 
+개념 이해 : https://gmlwjd9405.github.io/2018/08/28/algorithm-mst.html
+연습 문제 : https://www.acmicpc.net/problem/1197 
+연습 문제 해설 : https://jellyinghead.tistory.com/86 (크루스칼)
+
 > ##31주차 문제 (23.06.09.~23.06.15) : 코테 대비 13주차
 
 1. [6443번 애너그램]https://www.acmicpc.net/problem/6443
