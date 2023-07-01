@@ -1,6 +1,23 @@
 ### 문제를 푸시고, week / [이름 or 닉네임] / [푼 문제 파일] 형식으로 업로드해주세요! -> 한 주에 5개의 풀이가 쌓이게 됩니다!
 ### 금요일~목요일 을 한 주로 진행합니다! 목요일 발표 전까지 해당하는 주차의 문제를 풀어서 올려주세요!
 <br/>
+> ##33주차 문제 (23.06.30.~23.07.06) : 코테 대비 15주차
+1. [6497번 전력난] https://www.acmicpc.net/problem/6497 - 지누
+
+2. [2477번 참외밭] https://www.acmicpc.net/problem/2477 - 해철
+
+3. [1757번 달려달려] https://www.acmicpc.net/problem/1757 - choon
+
+4. [6118번 숨바꼭질] https://www.acmicpc.net/problem/6118 - oe
+
+5. [1475번 방 번호] https://www.acmicpc.net/problem/1475 - 불닭볶음면
+   
+<<<추가 문제>>>
+- [4929번 수열 걷기] https://www.acmicpc.net/problem/4929 - 신청자 받습니다 ㅎ
+
+- [25565번 딸기와 토마토] https://www.acmicpc.net/problem/25565 - 신청자 받습니다2 
+
+
 > ##32주차 문제 (23.06.24.~23.29.) : 코테 대비 14주차
 
 1. [9742번 순열] https://www.acmicpc.net/problem/9742 - 해철
