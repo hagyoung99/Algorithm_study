@@ -1,6 +1,23 @@
 ### 문제를 푸시고, week / [이름 or 닉네임] / [푼 문제 파일] 형식으로 업로드해주세요! -> 한 주에 5개의 풀이가 쌓이게 됩니다!
 ### 금요일~목요일 을 한 주로 진행합니다! 목요일 발표 전까지 해당하는 주차의 문제를 풀어서 올려주세요!
 <br/>
+
+> ##34주차 문제 (23.07.07.~23.07.13) : 코테 대비 16주차
+
+1. [1774번 우주신과의 교감] https://www.acmicpc.net/problem/1774 - 해철
+
+2. [17396번 백도어] https://www.acmicpc.net/problem/17396 - oe
+
+3. [19640번 화장실의 규칙] https://www.acmicpc.net/problem/19640- choon
+
+4. [3568번 iShart] https://www.acmicpc.net/problem/3568 - 지누
+
+5. [2455번 지능형 기차] https://www.acmicpc.net/problem/2455 - 불닭볶음면
+   
+<<<추가 문제>>>
+- https://www.acmicpc.net/problem/9934 - 완전 이진 트리(9934번)
+  
+
 > ##33주차 문제 (23.06.30.~23.07.06) : 코테 대비 15주차
 
 1. [6497번 전력난] https://www.acmicpc.net/problem/6497 - 지누
