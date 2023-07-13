@@ -8,7 +8,7 @@
 
 2. [17396번 백도어] https://www.acmicpc.net/problem/17396 - oe
 
-3. [19640번 화장실의 규칙] https://www.acmicpc.net/problem/19640- choon
+3. [19640번 화장실의 규칙] https://www.acmicpc.net/problem/19640 - choon
 
 4. [3568번 iShart] https://www.acmicpc.net/problem/3568 - 지누
 
