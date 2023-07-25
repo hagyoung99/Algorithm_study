@@ -18,7 +18,9 @@ public class Main {
         char[] arr2 = Arrays.copyOf(present, present.length);
         click(0, arr1);
 
-        System.out.println(Math.max(cal(arr1, true), cal(arr2, false)));
+        int result = Math.min(cal(arr1, true), cal(arr2, false));
+
+        System.out.println(result == Integer.MAX_VALUE ? -1 : result);
     }
     public static int cal(char[] array, boolean isClicked) {
         int cnt = isClicked ? 1 : 0;
@@ -28,7 +30,7 @@ public class Main {
                 cnt++;
             }
         }
-        return Arrays.equals(array, target) ? cnt : -1;
+        return Arrays.equals(array, target) ? cnt : Integer.MAX_VALUE;
     }
 
     private static void click(int i, char[] tmp) {
